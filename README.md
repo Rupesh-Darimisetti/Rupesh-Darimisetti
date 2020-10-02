@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 [<img align="left" alt="kali linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][KaliLinuxplaylist]
-[<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][Gitplaylist]
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" />][Gitplaylist]
 <br />
 <br />
 
@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 [youtube]: https://m.youtube.com/channel/UCWhrD7cOc0aPegU-o8KynqQ
 [instagram]: https://instagram.com/rupesh_darimisetti
 [linkedin]: https://www.linkedin.com/in/rupesh-darimisetti-4095aa1a9
-[KaliLinuxplaylist]: https://www.youtube.com/watchv=N1ytEMevQtM&list=PLKiQVpW7NL_CILVLaoMK9bLCvk21UgYqw
+[KaliLinuxplaylist]: https://www.youtube.com/watch?v=N1ytEMevQtM&list=PLKiQVpW7NL_CILVLaoMK9bLCvk21UgYqw
 [Gitplaylist]: https://www.youtube.com/watch?v=xpxlGugmA5M&list=PLKiQVpW7NL_AAv1O191a_AxyY7iDCFx-E
