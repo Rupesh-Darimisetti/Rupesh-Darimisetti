@@ -1,11 +1,11 @@
-### Hi there 👋 my name is Rupesh Darimisetti
-
+### Hi there,I'm Rupesh Darimisetti [Rupesh-Darimisetti][website] 👋
 <!--
 **Rupesh-Darimisetti/Rupesh-Darimisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on open source y
+## I'm a student, Developer and Engineer!
+- 🔭 I’m currently working on open source development
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on development
 - 🤔 I’m looking for help with latest technology
@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rupeshdarimisetti.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -77,5 +76,5 @@ Here are some ideas to get you started:
 [youtube]: https://m.youtube.com/channel/UCWhrD7cOc0aPegU-o8KynqQ
 [instagram]: https://instagram.com/rupesh_darimisetti
 [linkedin]: https://www.linkedin.com/in/rupesh-darimisetti-4095aa1a9
-[KaliLinuxplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[Gitplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[KaliLinuxplaylist]: https://www.youtube.com/watchv=N1ytEMevQtM&list=PLKiQVpW7NL_CILVLaoMK9bLCvk21UgYqw
+[Gitplaylist]: https://www.youtube.com/watch?v=xpxlGugmA5M&list=PLKiQVpW7NL_AAv1O191a_AxyY7iDCFx-E
