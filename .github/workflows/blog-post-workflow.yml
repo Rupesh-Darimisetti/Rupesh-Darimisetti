@@ -13,4 +13,4 @@ jobs:
       -uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/rupesh-darimisetti.blogpost.com"
+          feed_list: "https://rupeshdarimisetti.blogpost.com"
