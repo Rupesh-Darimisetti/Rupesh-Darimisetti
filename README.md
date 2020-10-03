@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="kali linux" width="26px" src="https://images.app.goo.gl/YXQtTPbA2pEb3ueF7" />][KaliLinuxplaylist]
-[<img align="left" alt="git" width="26px" src="https://images.app.goo.gl/DTTN87pinSURYi3P7" />][Gitplaylist]
+[<img align="left" alt="kali linux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />][KaliLinuxplaylist]
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Gitplaylist]
 <br />
 <br />
 
