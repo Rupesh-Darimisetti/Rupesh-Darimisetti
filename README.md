@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [GITHUB ACCOUNT INITIALIZATION IN GIT BASH TERMINAL](https://www.youtube.com/watch?v=IKML4WtIjbw)
 - [AI Platform cloud deployment and creation in Qwik Start](https://www.youtube.com/watch?v=pDdgcl7Idho)
 - [how to create GitHub profile using readme with your repo name as your name.](https://www.youtube.com/watch?v=iMwvGoiLp0A)
 - [kali Linux installation using VMware](https://www.youtube.com/watch?v=N1ytEMevQtM)
 - [how to set screen from  center screen to full screen that fits the VMware workstation](https://www.youtube.com/watch?v=UyVGNd95eNg)
-- [how to setup display to full size of kali Linux in VMware](https://www.youtube.com/watch?v=CSxDhksE_D4)
 <!-- YOUTUBE:END -->
 
 ---
