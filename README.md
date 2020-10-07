@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ---
+<!-- START-SESSION: BLOGSPOT-->
 
 <img align="left" alt="Rupesh-Darimisetti Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rupesh-Darimisetti&show_icons=true&hide_border=true" />
 
