@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Multiple VPC network creation in Google Cloud Platform[GCP]](https://www.youtube.com/watch?v=2GPHjH0Hnys)
 - [Troubleshooting Common SQL Errors With Big Query](https://www.youtube.com/watch?v=9vcsrHDjyhA)
 - [Big Query : Qwik Start - Command Line solved with the given credentials](https://www.youtube.com/watch?v=zfTvBrSlklE)
 - [GITHUB ACCOUNT INITIALIZATION IN GIT BASH TERMINAL](https://www.youtube.com/watch?v=IKML4WtIjbw)
 - [AI Platform cloud deployment and creation in Qwik Start](https://www.youtube.com/watch?v=pDdgcl7Idho)
-- [how to create GitHub profile using readme with your repo name as your name.](https://www.youtube.com/watch?v=iMwvGoiLp0A)
 <!-- YOUTUBE:END -->
 
 ---
