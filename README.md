@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [installation of angular command line interface and firebase tools using command line](https://www.youtube.com/watch?v=FL_6qQnrGgs)
 - [Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=UX8W4_jmM1k)
 - [Using the What-If Tool with Image Recognition Modelsfavorite_borderAdd to favorites](https://www.youtube.com/watch?v=pzi5QyXVmr4)
 - [Multiple VPC network creation in Google Cloud Platform[GCP]](https://www.youtube.com/watch?v=2GPHjH0Hnys)
 - [Troubleshooting Common SQL Errors With Big Query](https://www.youtube.com/watch?v=9vcsrHDjyhA)
-- [Big Query : Qwik Start - Command Line solved with the given credentials](https://www.youtube.com/watch?v=zfTvBrSlklE)
 <!-- YOUTUBE:END -->
 
 ---
