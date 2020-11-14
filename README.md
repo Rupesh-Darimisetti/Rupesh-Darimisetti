@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Compare Cloud AI Platform Models using What-if Tool Identify Potential Bias](https://www.youtube.com/watch?v=wLDGgDYL1-Y)
 - [Deployment Manager - Full Production](https://www.youtube.com/watch?v=Qyc4sUyF6S0)
 - [Build and Secure Networks in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=mKSbopTMuOM)
 - [Create an Internet Load Balancer || GCP ||AWS || Qwiklabs](https://www.youtube.com/watch?v=j1CbW_qcO_M)
 - [HTTP Load Balancer with Cloud Armor || GCP ||Qwiklabs](https://www.youtube.com/watch?v=zzMTTd6yDXg)
-- [how to install android studio sdk in android studio](https://www.youtube.com/watch?v=XBX46TiRT9Q)
 <!-- YOUTUBE:END -->
 
 ---
