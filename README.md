@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Continuous Delivery Pipelines with Spinnaker and Kubernets Engine](https://www.youtube.com/watch?v=C6b12tdr_6c)
 - [Introduction to Docker](https://www.youtube.com/watch?v=Sy_ELbJ7oTU)
 - [Compare Cloud AI Platform Models using What-if Tool Identify Potential Bias](https://www.youtube.com/watch?v=wLDGgDYL1-Y)
 - [Deployment Manager - Full Production](https://www.youtube.com/watch?v=Qyc4sUyF6S0)
 - [Build and Secure Networks in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=mKSbopTMuOM)
-- [Create an Internet Load Balancer || GCP ||AWS || Qwiklabs](https://www.youtube.com/watch?v=j1CbW_qcO_M)
 <!-- YOUTUBE:END -->
 
 ---
