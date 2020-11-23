@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [VPC Networks- controlling Access || Qwiklabs || Google cloud vpc networks](https://www.youtube.com/watch?v=qC9-ToSEgHw)
 - [Continuous Delivery Pipelines with Spinnaker and Kubernets Engine](https://www.youtube.com/watch?v=C6b12tdr_6c)
 - [Introduction to Docker](https://www.youtube.com/watch?v=Sy_ELbJ7oTU)
 - [Compare Cloud AI Platform Models using What-if Tool Identify Potential Bias](https://www.youtube.com/watch?v=wLDGgDYL1-Y)
 - [Deployment Manager - Full Production](https://www.youtube.com/watch?v=Qyc4sUyF6S0)
-- [Build and Secure Networks in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=mKSbopTMuOM)
 <!-- YOUTUBE:END -->
 
 ---
