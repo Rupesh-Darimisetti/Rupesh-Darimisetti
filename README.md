@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Site Reliability Troubleshooting with Cloud Monitoring APM](https://www.youtube.com/watch?v=E6WtqtGEVqA)
 - [continuous delivery with Jenkins in kubernets engine](https://www.youtube.com/watch?v=xjkxG1sOHcQ)
 - [Set up and Configure a cloud Environment in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=Pak5ASv5njI)
 - [VPC Networks- controlling Access || Qwiklabs || Google cloud vpc networks](https://www.youtube.com/watch?v=qC9-ToSEgHw)
 - [Continuous Delivery Pipelines with Spinnaker and Kubernets Engine](https://www.youtube.com/watch?v=C6b12tdr_6c)
-- [Introduction to Docker](https://www.youtube.com/watch?v=Sy_ELbJ7oTU)
 <!-- YOUTUBE:END -->
 
 ---
