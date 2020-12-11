@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Managing Deployments Using Kubernets Engine](https://www.youtube.com/watch?v=3G4BCDJViGM)
 - [Big Data Analysis to a Slide Presentation](https://www.youtube.com/watch?v=Xju3gXuJV-E)
 - [How To Upload Video into YouTube all Time](https://www.youtube.com/watch?v=iT5soH9tb28)
 - [Site Reliability Troubleshooting with Cloud Monitoring APM](https://www.youtube.com/watch?v=E6WtqtGEVqA)
 - [continuous delivery with Jenkins in kubernets engine](https://www.youtube.com/watch?v=xjkxG1sOHcQ)
-- [Set up and Configure a cloud Environment in Google Cloud: Challenge Lab](https://www.youtube.com/watch?v=Pak5ASv5njI)
 <!-- YOUTUBE:END -->
 
 ---
