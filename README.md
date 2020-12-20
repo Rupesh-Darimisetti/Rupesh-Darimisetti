@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Identify Bias in Mortgage Data using Cloud AI Platform and the What-if Tool](https://www.youtube.com/watch?v=cbLFFgT_5uc)
 - [Orchestrating the Cloud with Kubernets](https://www.youtube.com/watch?v=_aEjImOjBBM)
 - [Explore and Create Reports with Data Studio](https://www.youtube.com/watch?v=UJUAmJNAdmM)
 - [Managing Deployments Using Kubernets Engine](https://www.youtube.com/watch?v=3G4BCDJViGM)
 - [Big Data Analysis to a Slide Presentation](https://www.youtube.com/watch?v=Xju3gXuJV-E)
-- [How To Upload Video into YouTube all Time](https://www.youtube.com/watch?v=iT5soH9tb28)
 <!-- YOUTUBE:END -->
 
 ---
