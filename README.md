@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Explore Machine Learning Models with Explainable AI: Challenge Lab](https://www.youtube.com/watch?v=JdxSENRPxzQ)
 - [Identify Bias in Mortgage Data using Cloud AI Platform and the What-if Tool](https://www.youtube.com/watch?v=cbLFFgT_5uc)
 - [Orchestrating the Cloud with Kubernets](https://www.youtube.com/watch?v=_aEjImOjBBM)
 - [Explore and Create Reports with Data Studio](https://www.youtube.com/watch?v=UJUAmJNAdmM)
 - [Managing Deployments Using Kubernets Engine](https://www.youtube.com/watch?v=3G4BCDJViGM)
-- [Big Data Analysis to a Slide Presentation](https://www.youtube.com/watch?v=Xju3gXuJV-E)
 <!-- YOUTUBE:END -->
 
 ---
