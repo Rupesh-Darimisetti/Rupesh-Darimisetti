@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Rupesh-Darimisetti Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rupesh-Darimisetti&show_icons=true&hide_border=true" />
 
 [website]: https://rupeshdarimisetti.blogspot.com
-[blogger] :https://rupeshdarimisetti.blogspot.com/feed
+
 [youtube]: https://m.youtube.com/channel/UCWhrD7cOc0aPegU-o8KynqQ
 [instagram]: https://instagram.com/rupesh_darimisetti
 [linkedin]: https://www.linkedin.com/in/rupesh-darimisetti-4095aa1a9
