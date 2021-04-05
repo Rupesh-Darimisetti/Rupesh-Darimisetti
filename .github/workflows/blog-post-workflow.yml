@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: " Blog-Post-List " 
-          feed_list: "https://rupeshdarimisetti.blogspot.com/feeds/posts/default" 
+          feed_list: "https://rupeshdarimisetti.blogspot.com/atom.xml?redirect=false&start-index=1&max-results=500" 
