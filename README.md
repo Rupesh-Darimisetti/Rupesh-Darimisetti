@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [code](https://rupeshdarimisetti.blogspot.com/2021/04/code.html)
 - [Different types of State of Matter](https://rupeshdarimisetti.blogspot.com/2020/05/different-types-of-state-of-matter.html)
 - [git bash installation](https://rupeshdarimisetti.blogspot.com/2021/03/git-bash-installation.html)
 - [vim basic commands](https://rupeshdarimisetti.blogspot.com/2021/03/vim-basic-commands.html)
 - [Kali Linux installation in VMware workstation 15 in a computer or laptop.](https://rupeshdarimisetti.blogspot.com/2020/10/kali-linux-installation-in-vmware.html)
-- [SSC JE Recruitment 2020-21 : Apply Online till 30 October 2020](https://rupeshdarimisetti.blogspot.com/2020/10/ssc-je-recruitment-2020-21-apply-online.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
