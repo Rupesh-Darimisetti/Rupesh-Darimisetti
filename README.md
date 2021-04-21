@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [code](https://rupeshdarimisetti.blogspot.com/2021/04/code.html)
+- [how to show codes in blog as in editor](https://rupeshdarimisetti.blogspot.com/2021/04/how-to-show-codes-in-blog-as-in-editor.html)
 - [Different types of State of Matter](https://rupeshdarimisetti.blogspot.com/2020/05/different-types-of-state-of-matter.html)
 - [git bash installation](https://rupeshdarimisetti.blogspot.com/2021/03/git-bash-installation.html)
 - [vim basic commands](https://rupeshdarimisetti.blogspot.com/2021/03/vim-basic-commands.html)
