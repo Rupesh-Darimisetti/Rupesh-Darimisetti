@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [30 days of Google qwik lab challenge swag](https://www.youtube.com/watch?v=t_ajuPwi9Uw)
 - [Successful life](https://www.youtube.com/watch?v=F3RU7VvCuDw)
 - [how to install Android studio  in windows operating systems](https://www.youtube.com/watch?v=Q3y6o6djgSA)
 - [Explore Machine Learning Models with Explainable AI: Challenge Lab](https://www.youtube.com/watch?v=JdxSENRPxzQ)
 - [Identify Bias in Mortgage Data using Cloud AI Platform and the What-if Tool](https://www.youtube.com/watch?v=cbLFFgT_5uc)
-- [Orchestrating the Cloud with Kubernets](https://www.youtube.com/watch?v=_aEjImOjBBM)
 <!-- YOUTUBE:END -->
 
 ---
