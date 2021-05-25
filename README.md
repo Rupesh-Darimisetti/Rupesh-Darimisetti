@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a react js project](https://rupeshdarimisetti.blogspot.com/2021/05/how-to-create-react-js-project.html)
 - [Searching techniques- sequential search or linear search](https://rupeshdarimisetti.blogspot.com/2021/04/searching.html)
 - [Different types of State of Matter](https://rupeshdarimisetti.blogspot.com/2020/05/different-types-of-state-of-matter.html)
 - [git bash installation](https://rupeshdarimisetti.blogspot.com/2021/03/git-bash-installation.html)
 - [vim basic commands](https://rupeshdarimisetti.blogspot.com/2021/03/vim-basic-commands.html)
-- [Kali Linux installation in VMware workstation 15 in a computer or laptop.](https://rupeshdarimisetti.blogspot.com/2020/10/kali-linux-installation-in-vmware.html)
 <!-- BLOG-POST-LIST:END -->
 
 ---
