@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Julia installation](https://www.youtube.com/watch?v=ZgN0vR-Zcsw)
 - [Ground View](https://www.youtube.com/watch?v=6h22t02YvGQ)
 - [30 days of Google qwik lab challenge swag](https://www.youtube.com/watch?v=t_ajuPwi9Uw)
 - [Successful life](https://www.youtube.com/watch?v=F3RU7VvCuDw)
 - [how to install Android studio  in windows operating systems](https://www.youtube.com/watch?v=Q3y6o6djgSA)
-- [Explore Machine Learning Models with Explainable AI: Challenge Lab](https://www.youtube.com/watch?v=JdxSENRPxzQ)
 <!-- YOUTUBE:END -->
 
 ---
