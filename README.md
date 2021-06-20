@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Julia installation](https://www.youtube.com/watch?v=ZgN0vR-Zcsw)
+- [Julia installation #julia](https://www.youtube.com/watch?v=ZgN0vR-Zcsw)
 - [Ground View](https://www.youtube.com/watch?v=6h22t02YvGQ)
 - [30 days of Google qwik lab challenge swag](https://www.youtube.com/watch?v=t_ajuPwi9Uw)
 - [Successful life](https://www.youtube.com/watch?v=F3RU7VvCuDw)
