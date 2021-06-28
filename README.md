@@ -1,52 +1,62 @@
+<div align="center"> 
+  
 ## Hi there!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25">I'm Rupesh Darimisetti [Rupesh-Darimisetti][website] 👋
+
 <!--
 **Rupesh-Darimisetti/Rupesh-Darimisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-## I'm a student, Developer and Engineer!
-- 🔭 Pursuing Mechanical Engineering in Baba Institute of Technology and Science
+## I'm a student, Developer and Engineer! </div > 
+- 🎓 I'm currently Pursuing Mechanical Engineering in Baba Institute of Technology and Science Visakhapatnam
 - 🔭 I’m currently working on open source development
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on development
 - 🤔 I’m looking for help with latest technology
 - 📫 How to reach me: rupeshdarimisetti@gmail.com
 - 😄 Pronouns: he/him
--  Quatation: "Be like as you are don't change for one person or other"
+- 👉 Phrase: **Be like as you are don't change for one person or any other thing**
 <!-- - 💬 Ask me about programming -->
+ 
 ---
 
-### Connect with me:
-
+<div align="center" > 
+  
+### Connect with me: 
 [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
-[<img src="https://img.shields.io/badge/blogspot-%23F45000.svg?&style=for-the-badge&logo=website&Color=white" />][website]
+[<img src="https://img.shields.io/badge/blogger-%23F034.svg?&style=for-the-badge&logo=blogger&Color=white" />][website]
 [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">][twitter]
+</div > 
+ 
 ---
-
-
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 <!-- <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 <!-- <code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code> -->
 <!-- <code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code> -->
+ <div align="center"> 
+  
 ### Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
+<code><img  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/></code>
 <code><img height="20" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/></code>
-[<img align="left" alt="kali linux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />][KaliLinuxplaylist]
-[<img align="left" alt="git" width="26px" src="https://img.icons8.com/color/50/000000/github.png" />][Gitplaylist]
-<br/>
+[<img  alt="kali linux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />][KaliLinuxplaylist]
+[<img alt="git" width="26px" src="https://img.icons8.com/color/50/000000/github.png" />][Gitplaylist]
+
+</div> 
+   
 ---
 ![](https://activity-graph.herokuapp.com/graph?username=Rupesh-Darimisetti&theme=react-dark&hide_border=true&area=true)
 
+---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Julia installation #julia](https://www.youtube.com/watch?v=ZgN0vR-Zcsw)
