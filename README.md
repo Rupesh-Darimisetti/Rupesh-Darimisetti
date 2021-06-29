@@ -69,11 +69,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Day 10: Binary Numbers](https://rupeshdarimisetti.blogspot.com/2021/06/day-10-binary-numbers.html)
 - [How to prepare percolation pit to store water in ground](https://rupeshdarimisetti.blogspot.com/2021/06/how-to-prepare-percolation-pit-to-store.html)
 - [How to make vanilla cake](https://rupeshdarimisetti.blogspot.com/2021/06/how-to-make-vanilla-cake.html)
 - [How to create a react js project](https://rupeshdarimisetti.blogspot.com/2021/05/how-to-create-react-js-project.html)
 - [Searching techniques- sequential search or linear search](https://rupeshdarimisetti.blogspot.com/2021/04/searching.html)
-- [Different types of State of Matter](https://rupeshdarimisetti.blogspot.com/2020/05/different-types-of-state-of-matter.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
