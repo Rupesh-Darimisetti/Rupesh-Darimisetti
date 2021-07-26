@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center" > 
   
-### Connect with me: 
+### Connect with me:
 [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img src="https://img.shields.io/badge/blogger-%23F034.svg?&style=for-the-badge&logo=blogger&Color=white" />][website]
 [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">][twitter]
 </div > 
- 
+
 ---
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> -->
 <!-- <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- <code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code> -->
  <div align="center"> 
   
-### Languages and Tools:
+### Languages and Tools
 <code><img  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></code>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 </div> 
    
 ---
-![](https://activity-graph.herokuapp.com/graph?username=Rupesh-Darimisetti&theme=react-dark&hide_border=true&area=true)
+![Rupesh Darimisetti's contribution graph](https://activity-graph.herokuapp.com/graph?username=Rupesh-Darimisetti&theme=react-dark&hide_border=true&area=true)
 
 ---
 ### 📺 Latest YouTube Videos
@@ -84,12 +84,12 @@ Here are some ideas to get you started:
 </p> -->
 <div align="center">
   
-## Github status
+## GitHub stats
 </div>
 
-<p align='left'><img style="border-style:solid" src="https://github-readme-stats.vercel.app/api?username=Rupesh-Darimisetti&count_private=true&theme=radical"/></p>
-<p align='center'><img  style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupesh-Darimisetti&theme=radical"/></p>
-<p align='right'><img style="border-style:solid" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-Darimisetti&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"/></p>
+<img style="border-style:solid" src="https://github-readme-stats.vercel.app/api?username=Rupesh-Darimisetti&count_private=true&theme=radical"/>
+<img  style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupesh-Darimisetti&theme=radical"/>
+<p align='center'><img style="border-style:solid" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-Darimisetti&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"/></p>
 
 <div align="center"> 
   
