@@ -1,6 +1,6 @@
 <div align="center"> 
   
-## Hi there!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25">I'm Rupesh Darimisetti [Rupesh-Darimisetti][website] 👋
+## Hi there!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25">I'm [Rupesh-Darimisetti][website] 👋
 
 <!--
 **Rupesh-Darimisetti/Rupesh-Darimisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
