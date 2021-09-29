@@ -59,11 +59,11 @@ Here are some ideas to get you started:
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [how to delete blog from blogger websites from blogger account](https://www.youtube.com/watch?v=vbqz17n_oc0)
 - [Julia installation](https://www.youtube.com/watch?v=ZgN0vR-Zcsw)
 - [Ground View](https://www.youtube.com/watch?v=6h22t02YvGQ)
 - [30 days of Google qwik lab challenge swag](https://www.youtube.com/watch?v=t_ajuPwi9Uw)
 - [Successful life](https://www.youtube.com/watch?v=F3RU7VvCuDw)
-- [how to install Android studio  in windows operating systems](https://www.youtube.com/watch?v=Q3y6o6djgSA)
 <!-- YOUTUBE:END -->
 --- 
 
