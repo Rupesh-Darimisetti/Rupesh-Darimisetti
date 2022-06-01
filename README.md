@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img src="https://img.shields.io/badge/blogger-%23F034.svg?&style=for-the-badge&logo=blogger&Color=white" />][website]
 [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+[<img src="https://img.shields.io/youtube/channel/subscribers/UCWhrD7cOc0aPegU-o8KynqQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Rupesh Darimisetti YouTube channel" />][youtube]
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
-[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">][twitter]
+[<img src ="https://img.shields.io/twitter/follow/RUPESH06678794?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="RUPESH06678794">][twitter]
+[<img src="https://img.shields.io/github/sponsors/Rupesh-Darimisetti?style=for-the-badge">][Github-sponsors]
+  
 </div > 
 
 ---
@@ -105,3 +107,4 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/RUPESH06678794
 [KaliLinuxplaylist]: https://www.youtube.com/watch?v=N1ytEMevQtM&list=PLKiQVpW7NL_CILVLaoMK9bLCvk21UgYqw
 [Gitplaylist]: https://www.youtube.com/watch?v=xpxlGugmA5M&list=PLKiQVpW7NL_AAv1O191a_AxyY7iDCFx-E
+[Github-sponsors]:  https://github.com/sponsors/Rupesh-Darimisetti
