@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [how to show codes in blog as in editor](https://rupeshdarimisetti.blogspot.com/2021/04/how-to-show-codes-in-blog-as-in-editor.html)
-- [Day 20: Sorting](https://rupeshdarimisetti.blogspot.com/2021/07/day-20-sorting.html)
-- [Day 10: Binary Numbers](https://rupeshdarimisetti.blogspot.com/2021/06/day-10-binary-numbers.html)
-- [How to prepare percolation pit to store water in ground](https://rupeshdarimisetti.blogspot.com/2021/06/how-to-prepare-percolation-pit-to-store.html)
-- [How to make vanilla cake](https://rupeshdarimisetti.blogspot.com/2021/06/how-to-make-vanilla-cake.html)
+- [Taper Turning Operation on CNC Lathe machine](https://rupeshdarimisetti.blogspot.com/2022/06/taper-turning-operation-on-cnc-lathe.html)
+- [What are the 5 compare states of matter in the world?](https://rupeshdarimisetti.blogspot.com/2022/06/What are the 5 compare states of matter in the world.html)
+- [Turning Operation CNC program](https://rupeshdarimisetti.blogspot.com/2022/05/turning-operation-cnc-program.html)
+- [Facing Operation CNC program](https://rupeshdarimisetti.blogspot.com/2022/05/facing-operation-cnc-program.html)
+- [Insert Nomenclature - CNC](https://rupeshdarimisetti.blogspot.com/2022/05/insert-nomenclature-cnc.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
