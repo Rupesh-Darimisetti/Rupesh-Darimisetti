@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How to install Go Language in windows Operating System](https://www.youtube.com/watch?v=vU-lCRlJQNg)
-- [how to delete blog from blogger websites from blogger account](https://www.youtube.com/watch?v=vbqz17n_oc0)
-- [Julia installation](https://www.youtube.com/watch?v=ZgN0vR-Zcsw)
-- [Ground View](https://www.youtube.com/watch?v=6h22t02YvGQ)
-- [30 days of Google qwik lab challenge swag](https://www.youtube.com/watch?v=t_ajuPwi9Uw)
+- [how to locally install and setup WordPress, Xampp php backend server in computer](https://www.youtube.com/watch?v=JtrAOxQZbCw)
+- [how  to install Catia software in your pc and run it](https://www.youtube.com/watch?v=jzNJ-ZM5fjs)
+- [how to install WinRAR an use it](https://www.youtube.com/watch?v=NrvcG_lOwZQ)
+- [Matrix Laboratory download, installation and activation in windows operating system.](https://www.youtube.com/watch?v=QJCYxkOUHKs)
+- [GIT installation and setup in windows operating system](https://www.youtube.com/watch?v=UWlUKRJ5Chw)
 <!-- YOUTUBE:END -->
 --- 
 
