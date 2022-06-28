@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [how to fix Round 2 Semi-Final TechGig Code Gladiator 2022](https://rupeshdarimisetti.blogspot.com/2022/06/techgig-code-gladiator-semi-final-round.html)
 - [How to show sitemap of your blog website](https://rupeshdarimisetti.blogspot.com/2022/06/how-to-show-sitemap-of-your-blog-website.html)
 - [What are the 5 compare states of matter in the world?](https://rupeshdarimisetti.blogspot.com/2022/06/what-are-5-compare-states-of-matter-in.html)
 - [Taper Turning Operation on CNC Lathe machine](https://rupeshdarimisetti.blogspot.com/2022/06/taper-turning-operation-on-cnc-lathe.html)
 - [Turning Operation CNC program](https://rupeshdarimisetti.blogspot.com/2022/05/turning-operation-cnc-program.html)
-- [Facing Operation CNC program](https://rupeshdarimisetti.blogspot.com/2022/05/facing-operation-cnc-program.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
