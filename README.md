@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to setup Node Js in windows Operating System](https://www.youtube.com/watch?v=Ry6IzQrIS7o)
 - [Windows Sub System for Linux setup and utilization in windows 10 and above](https://www.youtube.com/watch?v=HNnWtGL9CBI)
 - [java environment setup](https://www.youtube.com/watch?v=fna3A4yozlo)
 - [how to locally install and setup WordPress, Xampp php backend server in computer](https://www.youtube.com/watch?v=JtrAOxQZbCw)
 - [how  to install Catia software in your pc and run it](https://www.youtube.com/watch?v=jzNJ-ZM5fjs)
-- [how to install WinRAR an use it](https://www.youtube.com/watch?v=NrvcG_lOwZQ)
 <!-- YOUTUBE:END -->
 --- 
 
