@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hacktoberfest 2022 Account Setup and Beginner project](https://www.youtube.com/watch?v=CnLO7YPVYTQ)
+- [Hacktoberfest 2022 Account Setup](https://www.youtube.com/watch?v=CnLO7YPVYTQ)
 - [Intellij Idea Setup in Windows OS  with java, flutter setup](https://www.youtube.com/watch?v=IvsUsvbxc80)
 - [How to setup Flutter SDK &amp; VS code in windows 10 and above using  GIT CLI](https://www.youtube.com/watch?v=HK8zLlmnLzs)
 - [How to setup Node Js in windows Operating System](https://www.youtube.com/watch?v=Ry6IzQrIS7o)
