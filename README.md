@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LABTOP STAND UNBOXING](https://www.youtube.com/watch?v=mtm9qI7NhLk)
 - [A new type of update restarts in the windows 11 operating system.](https://www.youtube.com/watch?v=tUrsnhqEizA)
 - [how to install app locally from android studio into phone / tablet](https://www.youtube.com/watch?v=-22e7nwW7dc)
 - [source copy &lpar;scrcpy&rpar; + Android Debug Bundle &lpar;adb&rpar; to cast your mobile / tablet screen to laptop](https://www.youtube.com/watch?v=5Uv2eUzdcHs)
 - [Hacktoberfest 2022 Account Setup](https://www.youtube.com/watch?v=CnLO7YPVYTQ)
-- [Intellij Idea Setup in Windows OS  with java, flutter setup](https://www.youtube.com/watch?v=IvsUsvbxc80)
 <!-- YOUTUBE:END -->
 --- 
 
