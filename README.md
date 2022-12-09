@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 </div> 
    
----
-![Rupesh Darimisetti's contribution graph](https://activity-graph.herokuapp.com/graph?username=Rupesh-Darimisetti&theme=react-dark&hide_border=true&area=true)
 
----
+<!--![Rupesh Darimisetti's contribution graph](https://activity-graph.herokuapp.com/graph?username=Rupesh-Darimisetti&theme=react-dark&hide_border=true&area=true)-->
+
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Blender Installation and demo in windows 11](https://www.youtube.com/watch?v=fQbtojkHLWo)
