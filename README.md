@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 ## I'm a student, Developer and Engineer! </div > 
-- 🎓 I'm currently Pursuing Mechanical Engineering in Baba Institute of Technology and Science Visakhapatnam
+- 🎓 I'm a senior in Mechanical Engineering from Baba Institute of Technology and Science Visakhapatnam
 - 🔭 I’m currently working on open source development
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on development
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img src="https://img.shields.io/badge/blogger-%23F034.svg?&style=for-the-badge&logo=blogger&Color=white" />][website]
 [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img src="https://img.shields.io/youtube/channel/subscribers/UCWhrD7cOc0aPegU-o8KynqQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Rupesh Darimisetti YouTube channel" />][youtube]
+[<img src="https://img.shields.io/youtube/channel/subscribers/UCWhrD7cOc0aPegU-o8KynqQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Rupesh Darimisetti YouTube channel" />][youtube]<br>
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 [<img src ="https://img.shields.io/twitter/follow/RUPESH06678794?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="RUPESH06678794">][twitter]
@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> -->
 <!-- <code> <img height="20" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"> </code> -->
 <!-- <code> <img height = "20" src="https://www.php.net/images/logos/new-php-logo.svg" > </code> -->
- <div align="center"> 
+<!--  <div align="center">  -->
   
-### Languages and Tools
+<!-- ### Languages and Tools
 <code><img  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></code>
@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"/></code>
 [<img  alt="kali linux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/linux/linux.png" />][KaliLinuxplaylist]
 [<img alt="git" width="26px" src="https://img.icons8.com/color/50/000000/github.png" />][Gitplaylist]
-
-</div> 
+ 
+</div> -->
    
 
 <!--![Rupesh Darimisetti's contribution graph](https://activity-graph.herokuapp.com/graph?username=Rupesh-Darimisetti&theme=react-dark&hide_border=true&area=true)-->
@@ -87,10 +87,10 @@ Here are some ideas to get you started:
 <div align="center">
   
 ## GitHub stats
-</div>
 
 <img style="border-style:solid" src="https://github-readme-stats.vercel.app/api?username=Rupesh-Darimisetti&count_private=true&theme=radical"/>
 <img  style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Rupesh-Darimisetti&theme=radical"/>
+</div>
 <p align='center'><img style="border-style:solid" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-Darimisetti&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"/></p>
 
 <div align="center"> 
