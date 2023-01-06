@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [In a beach the 🌊 view in between rocks cool view](https://www.youtube.com/watch?v=OJqz5GFmJ0c)
 - [Rupesh Darimisetti GitHub Unwrapped](https://www.youtube.com/watch?v=EBuiLlyC4jc)
 - [Blender Installation and demo in windows 11](https://www.youtube.com/watch?v=fQbtojkHLWo)
 - [PI Day 2022 Event Swag](https://www.youtube.com/watch?v=890Yp-aD1gY)
 - [Meta Spark AR Studio setup in windows](https://www.youtube.com/watch?v=l52bYimk5Z4)
-- [🏆🏆🏆Hacktoberfest Swag ordering How To place  an order for your contribution for year 2022🏆🏆🏆](https://www.youtube.com/watch?v=Psx1dcvAj5k)
 <!-- YOUTUBE:END -->
 --- 
 
