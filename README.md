@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [dolphin 🐬🐬 moving in a group](https://www.youtube.com/watch?v=PXYjE4sXOUw)
 - [Dolphin 🐬 in the middle of the ocean 🌊🪸](https://www.youtube.com/watch?v=q-rW_xJ0KfI)
 - [In a beach the 🌊 view in between rocks cool view](https://www.youtube.com/watch?v=GPMqIYQjRLo)
 - [Rupesh Darimisetti GitHub Unwrapped](https://www.youtube.com/watch?v=EBuiLlyC4jc)
 - [Blender Installation and demo in windows 11](https://www.youtube.com/watch?v=fQbtojkHLWo)
-- [PI Day 2022 Event Swag](https://www.youtube.com/watch?v=890Yp-aD1gY)
 <!-- YOUTUBE:END -->
 --- 
 
