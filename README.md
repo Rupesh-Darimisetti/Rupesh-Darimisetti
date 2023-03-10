@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [RBI - Digital Payment Awareness Week 2023 program/ Electronic Banking and transaction system&lpar;e-BAAS&rpar;](https://www.youtube.com/watch?v=_-a3XwmjQUo)
+- [RBI - Digital Payment Awareness Week 2023 program [e-BAAS]](https://www.youtube.com/watch?v=_-a3XwmjQUo)
 - [Hacktoberfest swag unboxing 2022](https://www.youtube.com/watch?v=pWF3dxAdDwk)
 - [HAPPY MAKARA SANKRATI  BHOGI  TO  ALL THE MEMBERS AND YOUR FAMILY](https://www.youtube.com/watch?v=RAwfovRDF9I)
 - [dolphin 🐬🐬pod moving in the middle of ocean caught on camera](https://www.youtube.com/watch?v=PXYjE4sXOUw)
