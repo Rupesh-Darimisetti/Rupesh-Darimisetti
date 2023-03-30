@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [how to factory reset Google nest mini](https://www.youtube.com/watch?v=t2vl5TOr-vk)
+- [factory reset - how to factory reset Google nest mini home - google voice AI.](https://www.youtube.com/watch?v=t2vl5TOr-vk)
 - [Urdoer website to earn money by doing projects, assignments.](https://www.youtube.com/watch?v=m32xrWB5MDE)
 - [skill reactor environment setup || subscribe to the channel](https://www.youtube.com/watch?v=UYQ3KMDFtaY)
 - [RBI - Digital Payment Awareness Week 2023 program [e-BAAS]](https://www.youtube.com/watch?v=_-a3XwmjQUo)
