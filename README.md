@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [skill reactor personal CV || subscribe to the channel](https://www.youtube.com/watch?v=xsvD6ToCzKw)
 - [factory reset - how to factory reset Google nest mini home - google voice AI.](https://www.youtube.com/watch?v=t2vl5TOr-vk)
 - [Make Money : Urdoer website to earn money by doing projects and assignments](https://www.youtube.com/watch?v=m32xrWB5MDE)
 - [skill reactor environment setup || subscribe to the channel](https://www.youtube.com/watch?v=UYQ3KMDFtaY)
 - [RBI - Digital Payment Awareness Week 2023 program [e-BAAS]](https://www.youtube.com/watch?v=_-a3XwmjQUo)
-- [Hacktoberfest swag unboxing 2022](https://www.youtube.com/watch?v=pWF3dxAdDwk)
 <!-- YOUTUBE:END -->
 --- 
 
