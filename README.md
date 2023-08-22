@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 ## I'm a student, Developer and Engineer! </div > 
-- 🎓 I'm a senior in Mechanical Engineering from Baba Institute of Technology and Science Visakhapatnam
+- 🎓 I'm a graduate in Mechanical Engineering from Baba Institute of Technology and Science Visakhapatnam
 - 🔭 I’m currently working on open source development
 - 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on development
