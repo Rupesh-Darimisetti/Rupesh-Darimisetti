@@ -1,6 +1,6 @@
 <div align="center"> 
   
-## Hi there!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25">I'm [Rupesh-Darimisetti][website] 👋
+ Hi there!<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="25">I'm [Rupesh-Darimisetti][website] 👋
 
 <!--
 **Rupesh-Darimisetti/Rupesh-Darimisetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -94,9 +94,12 @@ Here are some ideas to get you started:
 <p align='center'><img style="border-style:solid" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-Darimisetti&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"/></p>
 
 <div align="center"> 
-  
+
+[![An image of @rupeshd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rupeshd)][holopin]
+ 
 ###  Show some ❤️ by starring some of the repositories!
 </div>
+
 
 [facebook]: https://www.facebook.com/Rupesh-Darimisetti
 [website]: https://rupeshdarimisetti.blogspot.com
@@ -108,3 +111,4 @@ Here are some ideas to get you started:
 [KaliLinuxplaylist]: https://www.youtube.com/watch?v=N1ytEMevQtM&list=PLKiQVpW7NL_CILVLaoMK9bLCvk21UgYqw
 [Gitplaylist]: https://www.youtube.com/watch?v=xpxlGugmA5M&list=PLKiQVpW7NL_AAv1O191a_AxyY7iDCFx-E
 [Github-sponsors]:  https://github.com/sponsors/Rupesh-Darimisetti
+[holopin]: https://holopin.io/@rupeshd
