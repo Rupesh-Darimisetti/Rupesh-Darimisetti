@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to build a new habit using Two minutes rule | #Atomic_habit | Habits](https://www.youtube.com/watch?v=sFJ1ZaPNkQs)
 - [How to setup holopin bages to Github profile page? | Holopin Bages | Github profile](https://www.youtube.com/watch?v=pv5VIczf9UM)
 - [skill reactor environment setup || subscribe to the channel](https://www.youtube.com/watch?v=K1i72yNnlCA)
 - [factory reset - how to factory reset Google nest mini home - google voice AI.](https://www.youtube.com/watch?v=t2vl5TOr-vk)
 - [Make Money : Urdoer website to earn money by doing projects and assignments](https://www.youtube.com/watch?v=m32xrWB5MDE)
-- [skill reactor environment setup || subscribe to the channel](https://www.youtube.com/watch?v=UYQ3KMDFtaY)
 <!-- YOUTUBE:END -->
 --- 
 
