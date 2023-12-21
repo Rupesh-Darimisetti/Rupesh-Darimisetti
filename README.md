@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Foundit HTML &amp; CSS Test @rupesh_darimisetti](https://www.youtube.com/watch?v=T2BK18iwhR0)
 - [Earning through fiver for the first 🥇 time](https://www.youtube.com/watch?v=4Wwa-NHMthg)
 - [upwork identification verification badge process](https://www.youtube.com/watch?v=J8aQCoyikbo)
 - [How to build a new habit using Two minutes rule | #Atomic_habit | Habits](https://www.youtube.com/watch?v=sFJ1ZaPNkQs)
 - [How to setup holopin bages to Github profile page? | Holopin Bages | Github profile](https://www.youtube.com/watch?v=pv5VIczf9UM)
-- [skill reactor environment setup || subscribe to the channel](https://www.youtube.com/watch?v=K1i72yNnlCA)
 <!-- YOUTUBE:END -->
 --- 
 
