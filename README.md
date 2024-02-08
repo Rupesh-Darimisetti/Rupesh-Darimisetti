@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [creating a website using React](https://www.youtube.com/watch?v=QCCJUtaotPw)
 - [Return to vizag from vijaywada through Ratnachal train from platform 1-5 climbed escalator to top](https://www.youtube.com/watch?v=ATns-n1Bnhc)
 - [Farmland at vijaywada kesarapalli , uppaluru, sees nature&#39;s beauty.](https://www.youtube.com/watch?v=ZmezqXd6F3g)
 - [Escalator at Vijayawada railway station #railway #indianrailways](https://www.youtube.com/watch?v=jHvQB_Yd-fU)
 - [Foundit HTML &amp; CSS Test @rupesh_darimisetti](https://www.youtube.com/watch?v=T2BK18iwhR0)
-- [Earning through fiver for the first 🥇 time](https://www.youtube.com/watch?v=4Wwa-NHMthg)
 <!-- YOUTUBE:END -->
 --- 
 
