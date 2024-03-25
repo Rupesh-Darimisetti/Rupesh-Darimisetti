@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [March 25, 2024&lpar;2&rpar;](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
-- [March 25, 2024&lpar;4&rpar;](https://www.youtube.com/watch?v=uFQR7T3-2AM)
-- [March 25, 2024&lpar;1&rpar;](https://www.youtube.com/watch?v=If9eI9GKNlY)
-- [March 25, 2024&lpar;5&rpar;](https://www.youtube.com/watch?v=DKcx4WrCI0Q)
-- [March 25, 2024&lpar;3&rpar;](https://www.youtube.com/watch?v=W_rKycJ4uJA)
+- [శ్రీ పైదిమంబా కోతి  దీపారాధన పెడమడక అగనంపుది గ్రామం March 25, 2024](https://www.youtube.com/watch?v=IQM79eEKN3E)
+- [జై హనుమానా జ్ఞాన గునసగరా song performance March 25, 2024](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
+- [kashmura song performance at Aganampudi village pedamadaka colony శ్రీ పైదిమంబా 25/03/ 2024](https://www.youtube.com/watch?v=uFQR7T3-2AM)
+- [Shiva song performance March 25, 2024](https://www.youtube.com/watch?v=If9eI9GKNlY)
+- [shops ar bimasankar temple pune](https://www.youtube.com/watch?v=q1-Du3F-Nbk)
 <!-- YOUTUBE:END -->
 --- 
 
