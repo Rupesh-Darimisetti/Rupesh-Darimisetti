@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave BootStrap coding lab 2 on 2024/05/17 at 14:26:53](https://www.youtube.com/watch?v=pRQ0Fwg1EpA)
 - [Nxtwave practice 10 bootstrap exercise on 2024-05-17 14:00:18](https://www.youtube.com/watch?v=itpJy1Fu054)
 - [Nxtwave: Revision Set 2 of MCQ Revison on 2024-05-17 13:30:15](https://www.youtube.com/watch?v=PRcTIqfDZHQ)
 - [NxtWave Bootstrap practice 9 MCQ solutions on 2024-05-17 at 10:52:33 - 11:04](https://www.youtube.com/watch?v=F7CgqRWeS3k)
 - [శ్రీ పైదిమంబా కోతి  దీపారాధన పెడమడక అగనంపుది గ్రామం March 25, 2024](https://www.youtube.com/watch?v=IQM79eEKN3E)
-- [జై హనుమానా జ్ఞాన గునసగరా Hanuman song performance March 25, 2024](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
 <!-- YOUTUBE:END -->
 --- 
 
