@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Coding Cover Page coding Practice 3 on 2024/05/17  at 17:57:58 by @rupesh_darimisetti](https://www.youtube.com/watch?v=gQjCSkSQ8jY)
 - [NxtWave Kaizen English test took on 2024/05/17 at 15:39:13 @rupesh_darimisetti](https://www.youtube.com/watch?v=iofBv68Q0rY)
 - [NxtWave BootStrap coding lab 2 on 2024/05/17 at 14:26:53](https://www.youtube.com/watch?v=pRQ0Fwg1EpA)
 - [Nxtwave practice 10 bootstrap exercise on 2024-05-17 14:00:18](https://www.youtube.com/watch?v=itpJy1Fu054)
 - [Nxtwave: Revision Set 2 of MCQ Revison on 2024-05-17 13:30:15](https://www.youtube.com/watch?v=PRcTIqfDZHQ)
-- [NxtWave Bootstrap practice 9 MCQ solutions on 2024-05-17 at 10:52:33 - 11:04](https://www.youtube.com/watch?v=F7CgqRWeS3k)
 <!-- YOUTUBE:END -->
 --- 
 
