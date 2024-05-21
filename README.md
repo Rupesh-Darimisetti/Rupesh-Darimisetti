@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Pracice 15 on 2024/05/21 at 15:58:24](https://www.youtube.com/watch?v=_p6LkStvaqE)
+- [NxtWave Coding Practice 9 on 2024/05/21 at 21:16:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=ZVdzG7BeL6M)
 - [NxtWave  CCBP UI KIT Practice on 2024/05 /21 at 17:34:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=fFki83K7GWs)
 - [NxtWave Coding Practice  8 on 2024/05/21 at 16;20:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=fHALERDtUu0)
 - [NxtWave NOUNS AND VERBS ASSESMENT 2 on 2024/05/21 at 15:40:33 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IpsavT4LdxY)
-- [NxtWave Noun and Verb - Assessment Set 1 on 2024/05/21 at 11:23:52 by @Rupe@rupesh_darimisetti](https://www.youtube.com/watch?v=yTKUeH4XW14)
-- [NxtWave Practice 14 on 2024/05/21 at 11:09:29 by @rupesh_darimisetti](https://www.youtube.com/watch?v=0jGYhcKXbLQ)
 <!-- YOUTUBE:END -->
 --- 
 
