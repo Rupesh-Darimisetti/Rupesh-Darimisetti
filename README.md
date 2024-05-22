@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Assignment 2 done on 2024/05/22 at 20:20:15 by @rupesh_darimisetti](https://www.youtube.com/watch?v=-La4v8Ocm-g)
 - [NxtWave Identity Part 2 - Practice &lpar;English&rpar; on 2024/05/22 at 20:04:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=OV0xE_uxwUI)
 - [NxtWave  Practice 17 on 2024/05/22 at 19:47:14 by @rupesh_darimisetti](https://www.youtube.com/watch?v=fGL-VkOZNQc)
 - [NxtWav Practice 10 on 2024/05/22 at 14:39:40 @rupesh_darimisetti](https://www.youtube.com/watch?v=cc-4z8Yoa8o)
 - [NxtWave Practice 16 on 2024/0/22 at 14:28:46 by @rupesh_darimisetti](https://www.youtube.com/watch?v=4cR4r98DhGk)
-- [How to reduce file size from 7.16GB to 150kb on 2024/05/22 at 11:59:21 by @rupesh_darimisetti](https://www.youtube.com/watch?v=gFZTpUDNdkg)
 <!-- YOUTUBE:END -->
 --- 
 
