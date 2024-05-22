@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWav Practice 10 on 2024/05/22 at 14:39:40 @rupesh_darimisetti](https://www.youtube.com/watch?v=cc-4z8Yoa8o)
 - [NxtWave Practice 16 on 2024/0/22 at 14:28:46 by @rupesh_darimisetti](https://www.youtube.com/watch?v=4cR4r98DhGk)
 - [How to reduce file size from 7.16GB to 150kb on 2024/05/22 at 11:59:21 by @rupesh_darimisetti](https://www.youtube.com/watch?v=gFZTpUDNdkg)
 - [NxtWave Noun - Singular &amp; Plural - Practice Set C on 2024/05/22 11:36:13 by @rupesh_darimisetti](https://www.youtube.com/watch?v=NzPMgu-jXJk)
 - [NxtWave Noun - Singular &amp; Plural - Practice Set B on 2024/05/22 at 11:21:58 by @rupesh_darimisetti](https://www.youtube.com/watch?v=_NRSA84iL9s)
-- [NxtWave Noun - Singular &amp; Plural - Practice Set A on 2024/05/22 at 11:06:24 by @rupesh_darimisetti](https://www.youtube.com/watch?v=UB1hXzyydo8)
 <!-- YOUTUBE:END -->
 --- 
 
