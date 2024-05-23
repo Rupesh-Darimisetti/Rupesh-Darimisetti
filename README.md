@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [NxtWave Coding Practice 12 on 2024/05/23 at  12:21:48 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=TWrdBUo9IDg)
-- [NxtWavw Coding Practice 11 on 2024/05/23 at 11:12:56 by @rupesh_darimisetti](https://www.youtube.com/watch?v=LQg-X1fKstE)
-- [NxtWave Revesion set 7 on 2024/05/23 at 10:50:19 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=g5rBZmI_iLI)
-- [NxtWave Assignment 2 done on 2024/05/22 at 20:20:15 by @rupesh_darimisetti](https://www.youtube.com/watch?v=-La4v8Ocm-g)
-- [NxtWave Identity Part 2 - Practice &lpar;English&rpar; on 2024/05/22 at 20:04:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=OV0xE_uxwUI)
+- [NxtWave Collective Noun - Practice Set A on 2024/05/23 at 17:27:42](https://www.youtube.com/watch?v=RAMTqXSoPuo)
+- [NxtWave Noun - Singular &amp; Plural - Assessment Set 1 on 2024/05/23 at 17:08:37 by @rupesh_darimisetti](https://www.youtube.com/watch?v=RQhsThcpiwg)
+- [NxtWave Noun - Singular &amp; Plural - Assessment Set 2 on2024/05/23 at 17:21:14 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Q5flGmU7Wjg)
+- [NxtWave Static web dev MCQ Assesment 2 on 2024/05/23 at16:57:50 by @rupesh_darimisetti](https://www.youtube.com/watch?v=cchNW8eLwB0)
+- [NxtWave Static Web dev MCQ Assignment 1 on 2024/05/23 at16:57:50 by @rupesh_darimisetti](https://www.youtube.com/watch?v=LiggYUJtc0U)
 <!-- YOUTUBE:END -->
 --- 
 
