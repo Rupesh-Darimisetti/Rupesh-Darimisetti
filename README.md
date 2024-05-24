@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave MCQ Assesment 4 Reattempt on 2024/05/24 at 2024/05/24 at 12:16:37 by @rupesh_darimisetti](https://www.youtube.com/watch?v=HD2MmZNL820)
+- [NxtWave Collective Noun - Practice Set C on 2024 05 24 12 00 48 by @rupesh_darimisetti](https://www.youtube.com/watch?v=bjvV1wUtXSI)
+- [NxtWave MCQ Assesment 5 on 2024/05/24 at 11:35:21 by @rupesh_darimisetti](https://www.youtube.com/watch?v=_MVYFXQu1NY)
 - [NxtWave MCQ Assesment 4 on 2024/05/24 at 11:16:29 by @rupesh_darimisetti](https://www.youtube.com/watch?v=cQlBR5eC2M8)
 - [NxtWave MCQ Assesment 3 on 2024/05/24 at 11:03:02](https://www.youtube.com/watch?v=7spANwKiC-4)
-- [NxtWave Revision set 8 on 2024/05/24 at 10:44:34 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qhQzR7ZlExg)
-- [NxtWave Static web dev Reattempt of MCQ 1,2 on 2024/05/23 at 17:57:29 by @rupesh_darimisetti](https://www.youtube.com/watch?v=t2tSMEtI-tI)
-- [NxtWave Collective Noun - Practice Set B on 2024/05/23 at 17:47:17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=jUAd1n3s-vE)
 <!-- YOUTUBE:END -->
 --- 
 
