@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Verb Form practice set A on 2024/05/25 at 16:33:28 by @rupesh_darimisetti](https://www.youtube.com/watch?v=9rgIa9GPTLk)
 - [NxtWave Static web dev Coding Test1 score 530/530 on 2024/05/25 at 14:32:11 by @rupesh_darimisetti](https://www.youtube.com/watch?v=1mI_MnfkjEo)
 - [NxtWave Coding Assignment 4 on 2024/05/25 at 10:45:48 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wXXN_qS8CcQ)
 - [NxtWave Revision Set 9 on 2024/05/25 at 10:25:12 by @rupesh_darimisetti](https://www.youtube.com/watch?v=O--lVQjHob0)
 - [NxtWave Coding Assignment 1 on 2024/05/24 at 20:33:52 by @rupesh_darimisetti](https://www.youtube.com/watch?v=99KRwsHPfhg)
-- [NxtWave Coding Assignment 3 on 2024/05/24 at 18:25:48 by @rupesh_darimisetti](https://www.youtube.com/watch?v=v_xZeZa-A64)
 <!-- YOUTUBE:END -->
 --- 
 
