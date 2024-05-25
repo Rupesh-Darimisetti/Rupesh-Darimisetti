@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Revision Set 9 on 2024/05/25 at 10:25:12 by @rupesh_darimisetti](https://www.youtube.com/watch?v=O--lVQjHob0)
 - [NxtWave Coding Practice 1 on 2024/05/24 at 20:33:52 by @rupesh_darimisetti](https://www.youtube.com/watch?v=99KRwsHPfhg)
 - [NxtWavw Coding Practice 3 on 2024/05/24 at 18:25:48 by @rupesh_darimisetti](https://www.youtube.com/watch?v=v_xZeZa-A64)
 - [NxtWave Coding Assignment 2 of 2024/05/24 at 16:24:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=C62gXJmh8eY)
 - [NxtWave Visualizing Your Identity- English on 2024/05/24 at 16:11:52 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=9w94FOcG6gA)
-- [NxtWave Collective Noun - Assessment Set 2 on 2024/05/24 at 14:37:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=SFzZfeDkYwo)
 <!-- YOUTUBE:END -->
 --- 
 
