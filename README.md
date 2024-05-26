@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ## I'm a student, Developer and Engineer! </div > 
 - 🎓 I'm a graduate in Mechanical Engineering from Baba Institute of Technology and Science Visakhapatnam
 - 🔭 I’m currently working on open source development
-- 🌱 I’m currently learning software development
+- 🌱 I’m currently learning software development with NxtWave CCBP 4.0
 - 👯 I’m looking to collaborate on development
 - 🤔 I’m looking for help with latest technology
 - 📫 How to reach me: rupeshdarimisetti@gmail.com
