@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Coding Practice 1 on 2024/05/28 at 16:16:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IQRYXbKDdvc)
 - [NxtWave Responsive Practice 3 on 2024/05/28 at 14:57:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=3EWr3t4_xBE)
 - [NxtWave Responsive Practice 2 on 2024/05/28 at 14:35:51 by @rupesh_darimisetti](https://www.youtube.com/watch?v=4OS8MHE1vOA)
 - [NxtWave Responsive Practice 1 on 2024/05/28 at 11:05:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=McLwbwyCPeo)
 - [NxtWave Revision Set 11 on 2024/05/28 at 10:58:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Asunb60I6sk)
-- [NxtWave Build Your Own Static Website Course Exam on 2024/05/27 at 18:47:04by @rupesh_darimisetti](https://www.youtube.com/watch?v=NvMbyoy-vJE)
 <!-- YOUTUBE:END -->
 --- 
 
