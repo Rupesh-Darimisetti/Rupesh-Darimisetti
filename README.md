@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Noun + Verb Agreement - Practice Set C on 2024/05/29 at 15:14:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=u0FwOklHSKw)
+- [NxtWave Noun + Verb Agreement - Practice Set B on 2024/05/29 at 15:05:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IbQbrcqzVvs)
+- [NxtWave Noun + Verb Agreement - Practice Set A on 2024/05/29 at 14:52:07 by @rupesh_darimisetti](https://www.youtube.com/watch?v=CVE1w6xTruw)
+- [NxtWave Responsive Practice 5 on 2024/05/29 at 14:36:56 by @rupesh_darimisetti](https://www.youtube.com/watch?v=I5KGLMBBVi8)
 - [NxtWave Responsive Practice 4 on 2024/05/29 at 11:56:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wFqHVJnSN9E)
-- [NxWave Responsive Codin Practice 2 on 2024/05/29 at 11:40:01 by @rupesh_darimisetti](https://www.youtube.com/watch?v=o4FOxeGsITs)
-- [NxtWave Revision Set 12 on 2024/05/29 at 11:20:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Y-P-m6BJIH0)
-- [NxtWave Coding Practice 1 on 2024/05/28 at 16:16:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IQRYXbKDdvc)
-- [NxtWave Responsive Practice 3 on 2024/05/28 at 14:57:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=3EWr3t4_xBE)
 <!-- YOUTUBE:END -->
 --- 
 
