@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave TA MCQ Onboarding one on 2024/05/29 at 15:47:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=_4T5GCoTiBQ)
+- [NxtWave Static Website TA Assessment  on 2024/05/29 at 15:24:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=1s0U5ZqBABM)
 - [NxtWave Noun + Verb Agreement - Practice Set C on 2024/05/29 at 15:14:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=u0FwOklHSKw)
 - [NxtWave Noun + Verb Agreement - Practice Set B on 2024/05/29 at 15:05:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IbQbrcqzVvs)
 - [NxtWave Noun + Verb Agreement - Practice Set A on 2024/05/29 at 14:52:07 by @rupesh_darimisetti](https://www.youtube.com/watch?v=CVE1w6xTruw)
-- [NxtWave Responsive Practice 5 on 2024/05/29 at 14:36:56 by @rupesh_darimisetti](https://www.youtube.com/watch?v=I5KGLMBBVi8)
-- [NxtWave Responsive Practice 4 on 2024/05/29 at 11:56:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wFqHVJnSN9E)
 <!-- YOUTUBE:END -->
 --- 
 
