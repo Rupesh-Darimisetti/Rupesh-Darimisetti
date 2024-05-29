@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Responsive Practice 4 on 2024/05/29 at 11:56:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wFqHVJnSN9E)
+- [NxWave Responsive Codin Practice 2 on 2024/05/29 at 11:40:01 by @rupesh_darimisetti](https://www.youtube.com/watch?v=o4FOxeGsITs)
 - [NxtWave Revision Set 12 on 2024/05/29 at 11:20:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Y-P-m6BJIH0)
 - [NxtWave Coding Practice 1 on 2024/05/28 at 16:16:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IQRYXbKDdvc)
 - [NxtWave Responsive Practice 3 on 2024/05/28 at 14:57:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=3EWr3t4_xBE)
-- [NxtWave Responsive Practice 2 on 2024/05/28 at 14:35:51 by @rupesh_darimisetti](https://www.youtube.com/watch?v=4OS8MHE1vOA)
-- [NxtWave Responsive Practice 1 on 2024/05/28 at 11:05:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=McLwbwyCPeo)
 <!-- YOUTUBE:END -->
 --- 
 
