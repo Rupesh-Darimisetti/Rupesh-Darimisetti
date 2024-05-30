@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Noun + Verb Agreement - Assessment Set 2 2024/05/30 at 11:54:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=azApUMowMlU)
+- [NxtWave Noun + Verb Agreement - Assessment Set 12024/05/30 at 11:45:17 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=sUhvGq9GVSg)
 - [NxtWave Nouns + verb Agremment Practice Set E  2024/05/30 at 11:132:06 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=WcZmGct-FYc)
 - [NxtWave Nouns + verb Agremment Practice Set D  2024/05/30 at 11:14:36 by @rupesh_darimisetti](https://www.youtube.com/watch?v=WGo-IIvNjGI)
 - [NxtWave Responsive Coding Practice 4 on 2024/05/30 at 10:42:40 by @rupesh_darimisetti](https://www.youtube.com/watch?v=haecjqX9XRc)
-- [NxtWave Responsive Coding Practice 3 on 2024/05/30 at 10:19:50 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2N6Whgz_GJw)
-- [NxtWave Essential Qualities - Integrity - English on 2024/05/29 at 18:11:09 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Oi1YJ5oPb5g)
 <!-- YOUTUBE:END -->
 --- 
 
