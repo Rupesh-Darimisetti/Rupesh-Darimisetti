@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Nouns + verb Agremment Practice Set E  2024/05/30 at 11:132:06 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=WcZmGct-FYc)
+- [NxtWave Nouns + verb Agremment Practice Set D  2024/05/30 at 11:14:36 by @rupesh_darimisetti](https://www.youtube.com/watch?v=WGo-IIvNjGI)
+- [NxtWave Responsive Coding Practice 4 on 2024/05/30 at 10:42:40 by @rupesh_darimisetti](https://www.youtube.com/watch?v=haecjqX9XRc)
+- [NxtWave Responsive Coding Practice 3 on 2024/05/30 at 10:19:50 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2N6Whgz_GJw)
 - [NxtWave Essential Qualities - Integrity - English on 2024/05/29 at 18:11:09 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Oi1YJ5oPb5g)
-- [NxtWave TA MCQ Onboarding one on 2024/05/29 at 15:47:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=_4T5GCoTiBQ)
-- [NxtWave Static Website TA Assessment  on 2024/05/29 at 15:24:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=1s0U5ZqBABM)
-- [NxtWave Noun + Verb Agreement - Practice Set C on 2024/05/29 at 15:14:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=u0FwOklHSKw)
-- [NxtWave Noun + Verb Agreement - Practice Set B on 2024/05/29 at 15:05:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IbQbrcqzVvs)
 <!-- YOUTUBE:END -->
 --- 
 
