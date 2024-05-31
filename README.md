@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Responsive Practice 7 on 2024/05/31 at 13:40:04 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2GQOaW45x30)
 - [NxtWave Basic Numbers Pracice on 2024/05 /30 at 15:25:04 by @rupesh_darimisetti](https://www.youtube.com/watch?v=rLqG8722E_s)
 - [NxtWave Responsive Coding Practice 5 on 2024/05/30 at 14:51:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Pg6PKG12seE)
 - [NxtWave Responsive practice 6 on 2024/05/30 at 14:38:50 by @rupesh_darimisetti](https://www.youtube.com/watch?v=mMgULzdxNsI)
 - [NxtWave Noun + Verb Agreement - Assessment Set 2 2024/05/30 at 11:54:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=azApUMowMlU)
-- [NxtWave Noun + Verb Agreement - Assessment Set 12024/05/30 at 11:45:17 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=sUhvGq9GVSg)
 <!-- YOUTUBE:END -->
 --- 
 
