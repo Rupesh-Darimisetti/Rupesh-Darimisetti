@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxWave Possesive Appostropies Practrce Set A on 2024/05/31 at 17:24:12 by @rupesh_darimisetti](https://www.youtube.com/watch?v=NRayNkZNz0s)
+- [NxtWave Essential Qualities Passion to Grow  Test on 2024/05/31 at 17:15:43 by @rupesh_darimisetti](https://www.youtube.com/watch?v=vbxR775fJqo)
+- [NxtWave Responsive Practice 8 on 2024/05/31 at 16:53:34 by @rupesh_darimisetti](https://www.youtube.com/watch?v=hb5NHbE1NDI)
 - [NxtWave Responsive Practice 7 on 2024/05/31 at 13:40:04 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2GQOaW45x30)
 - [NxtWave Basic Numbers Pracice on 2024/05 /30 at 15:25:04 by @rupesh_darimisetti](https://www.youtube.com/watch?v=rLqG8722E_s)
-- [NxtWave Responsive Coding Practice 5 on 2024/05/30 at 14:51:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Pg6PKG12seE)
-- [NxtWave Responsive practice 6 on 2024/05/30 at 14:38:50 by @rupesh_darimisetti](https://www.youtube.com/watch?v=mMgULzdxNsI)
-- [NxtWave Noun + Verb Agreement - Assessment Set 2 2024/05/30 at 11:54:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=azApUMowMlU)
 <!-- YOUTUBE:END -->
 --- 
 
