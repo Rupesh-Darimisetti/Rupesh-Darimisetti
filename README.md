@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Quant Apptitiuede test on 2024/05/26 at 18:13:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=3RxYbXNnjU8)
 - [NxtWave Possessive Noun Apostrophe Assessment Set 2 on 2024/06/01 at 16:45:09 by @rupesh_darimisetti](https://www.youtube.com/watch?v=F9vqTmQGB2g)
 - [NxtWave Possessive Noun Apostrophe Assessment Set 1 on 2024/06/01 at 16:36:01 by @rupesh_darimisetti](https://www.youtube.com/watch?v=-soDe2uC-h8)
 - [NxtWave Basic Exercise Power Cycles on 2024/06/01 at 15:42:46 by @rupesh_darimisetti](https://www.youtube.com/watch?v=E4TepZX6IyQ)
 - [NxtWave Responsive Coding Practice 6 on 2024/06/01 at 13:54:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=gYLgSOHTqyI)
-- [NxtWave Responsive Coding Practice 8 on 2024/06/01 at 15:04:25 by @rupesh_darimisetti](https://www.youtube.com/watch?v=GM9LiAsoGGA)
 <!-- YOUTUBE:END -->
 --- 
 
