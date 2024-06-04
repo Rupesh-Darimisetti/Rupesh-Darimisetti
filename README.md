@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave practice 10 2024/06/04 at 11:21:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=RUjpcdBLJsg)
 - [NxtWave Identity Review English on 2024/06/03 at 17:21:52 by @rupesh_darimisetti](https://www.youtube.com/watch?v=WQYPGZXLFTs)
 - [NxtWave Remainder cycle Basic Exercise on 2024/06/03 at 13:40:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qoFYMsY0Ktk)
 - [NxtWave Responsive Coding Practice 9 on 2024/06/03 at 12:12:55 at @rupesh_darimisetti](https://www.youtube.com/watch?v=iJIssaM_JzI)
 - [NxtWave Responsive Coding Pracice 7 on 2024/06/03 at 10:54: 01 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Cx-qttZKvGk)
-- [NxtWave Quant Apptitiuede test on 2024/05/26 at 18:13:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=3RxYbXNnjU8)
 <!-- YOUTUBE:END -->
 --- 
 
