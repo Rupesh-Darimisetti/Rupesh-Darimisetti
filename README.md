@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Willingness English on 2024/06/05 at 21:02:09 by @rupesh_darimisetti](https://www.youtube.com/watch?v=E8P45h4KA10)
 - [NxtWave Coding practice 11 on 2024/06/05 at 11:46:25 by @rupesh_darimisetti](https://www.youtube.com/watch?v=gaNPfOx9laM)
 - [NxtWave Coding Practice 12 on 2024/06/05 at 14:19:53 by @rupesh_darimisetti](https://www.youtube.com/watch?v=GLyRMM9yxHc)
 - [NxtWave Responsive Practice 11 on 2024/06/05 at 10:48:36 by @rupesh_darimisetti](https://www.youtube.com/watch?v=xvoN4EzJY4c)
 - [NxtWave Number Systems Assessment 2024/06/04 at 21:13:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=NQR4BZj7E6c)
-- [NxtWave Quant Aptitiude Company Specific MCQ&#39;s on 2024/06/04 at 16:36:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=mGZImNg6W7Q)
 <!-- YOUTUBE:END -->
 --- 
 
