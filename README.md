@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [NxtWave Coding Practice 12 on 2024/06/05 at 14:19:53 by @rupesh_darimisetti](https://www.youtube.com/watch?v=GLyRMM9yxHc)
-- [NxtWave Responsive Practice 11 on 2024/06/05 at 10:48:36 by @rupesh_darimisetti](https://www.youtube.com/watch?v=xvoN4EzJY4c)
-- [NxtWave Responsive Coding Practice 10 on 2024/06/04 at 14:49:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IbDau3q7Puw)
-- [NxtWave English Possesive Noun Off Form on 2024/06/04 at 15:54:36 by @rupesh_darimisetti](https://www.youtube.com/watch?v=0_3ZCJHi0CY)
-- [NxtWave practice 10 2024/06/04 at 11:21:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=RUjpcdBLJsg)
+- [శ్రీ పైదిమంబా కోతి  దీపారాధన పెడమడక అగనంపుది గ్రామం March 25, 2024](https://www.youtube.com/watch?v=IQM79eEKN3E)
+- [జై హనుమానా జ్ఞాన గునసగరా Hanuman song performance March 25, 2024](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
+- [kashmura song performance at Aganampudi village pedamadaka colony శ్రీ పైదిమంబా 25/03/ 2024](https://www.youtube.com/watch?v=uFQR7T3-2AM)
+- [Shiva song performance March 25, 2024](https://www.youtube.com/watch?v=If9eI9GKNlY)
+- [shops ar bimasankar temple pune](https://www.youtube.com/watch?v=q1-Du3F-Nbk)
 <!-- YOUTUBE:END -->
 --- 
 
