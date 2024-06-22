@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Profit Loss Assesment on 2024/06/22 at 16:29:43 by @rupesh_darimisetti](https://www.youtube.com/watch?v=VxNITlwr9p0)
 - [how to apply for an Original degree in JNTU GV and its affiliated colleges](https://www.youtube.com/watch?v=Fb4Nzm2ieqI)
 - [NxtWave Responsive Coding Assignment 1 on 2024/06/10 at 10:33:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=cE-qAGKcFiw)
 - [శ్రీ పైదిమంబా కోతి  దీపారాధన పెడమడక అగనంపుది గ్రామం March 25, 2024](https://www.youtube.com/watch?v=IQM79eEKN3E)
 - [జై హనుమానా జ్ఞాన గునసగరా Hanuman song performance March 25, 2024](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
-- [kashmura song performance at Aganampudi village pedamadaka colony శ్రీ పైదిమంబా 25/03/ 2024](https://www.youtube.com/watch?v=uFQR7T3-2AM)
 <!-- YOUTUBE:END -->
 --- 
 
