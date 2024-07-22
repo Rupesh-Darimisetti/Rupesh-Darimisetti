@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day 2 of #NxtWave Spoken Skills on 2024/07/22 at 21:02:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nqwPNwnsPWI)
 - [Day 1 of #NxtWave Speaking Skills presentation on  2024/07/20 at 21:00:06 by @rupesh_darimisetti](https://www.youtube.com/watch?v=k9BI7-gRmrE)
 - [how to apply for an Original degree in JNTU GV and its affiliated colleges](https://www.youtube.com/watch?v=Fb4Nzm2ieqI)
 - [NxtWave Responsive Coding Assignment 1 on 2024/06/10 at 10:33:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=cE-qAGKcFiw)
 - [శ్రీ పైదిమంబా కోతి  దీపారాధన పెడమడక అగనంపుది గ్రామం March 25, 2024](https://www.youtube.com/watch?v=IQM79eEKN3E)
-- [జై హనుమానా జ్ఞాన గునసగరా Hanuman song performance March 25, 2024](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
 <!-- YOUTUBE:END -->
 --- 
 
