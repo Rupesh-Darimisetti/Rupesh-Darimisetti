@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day 6 of  #NxtWave Spoken skills presentation  on  2024/07/26 at 22:52:46 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2TvLJ65iruU)
 - [Day 5 of  #NxtWave Spoken skills presentation  on 2024/07/25 at 21:27:15 by @rupesh_darimisetti](https://www.youtube.com/watch?v=yh5rIShZV5M)
 - [Day 4 of  #NxtWave Spoken skills presentation on  2024/07/24 at 21:34:39 by @rupesh_darimisetti](https://www.youtube.com/watch?v=O-HiuuEgonc)
 - [Day 3 of #NxtWave Spoken skills on 2024/07/23 at 21:13:33 by @rupesh_darimisetti](https://www.youtube.com/watch?v=xBeMYnTK-Yk)
 - [Day 2 of #NxtWave Spoken Skills on 2024/07/22 at 21:02:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nqwPNwnsPWI)
-- [Day 1 of #NxtWave Speaking Skills presentation on  2024/07/20 at 21:00:06 by @rupesh_darimisetti](https://www.youtube.com/watch?v=k9BI7-gRmrE)
 <!-- YOUTUBE:END -->
 --- 
 
