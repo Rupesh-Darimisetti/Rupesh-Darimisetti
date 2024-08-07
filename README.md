@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day 14 of #30daysofspokenskills #NxtWave on  2024/08/07 at 22:29:17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=xux7QPsHFX8)
 - [Day 13 of #30daysofspokenskills #NxtWave on  2024/08/06 at 23:50:04 by @rupesh_darimisetti](https://www.youtube.com/watch?v=QbO9fO0OASY)
 - [Day 12 of #30daysofspokenskills #NxtWave on  2024/08/05 at 21:45:31 by @rupesh_darimisetti](https://www.youtube.com/watch?v=BxP2bd3f9hA)
 - [Choosing the track suggested by #nxtwave on 2024/08/04 at 11:59:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=5tzaB29tvP4)
 - [Benyar Mechanical Automatic Watch unboxing on 2024/08/03 at 21:01:45 by@rupesh_darimisetti](https://www.youtube.com/watch?v=Q4TS3WfiUkc)
-- [Day 11 of #30daysofspokenskills #NxtWave on  2024/08/01 at 21:30:44 by @rupesh_darimisetti](https://www.youtube.com/watch?v=RjW6lzrdrTg)
 <!-- YOUTUBE:END -->
 --- 
 
