@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Foundation Exams 3 on 2024/08/13 at 20:50:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=OX2y91TOw1o)
+- [#nxtwave #Day19 of #30daysSpokenSkills on 2024/08/13 at 22:19:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=4PQX_EuP0s8)
 - [#nxtwave #Day18 of #30daysSpokenSkills on 2024/08/12  at 22:50:12 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IyKtO4Lqb2g)
 - [#Nxtwave Grand Assignment4 on 2024/08/12 at 20:40:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=hdMw93ALZb8)
 - [#nxtwave Grand Assignment 3 on 2024/08/11 at 11:14:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=VhtjP6OA0JI)
-- [#nxtwave #Day17 of #30daysSpokenSkills on 2024:08:10 at 23:42:34 by @rupesh_darimisetti](https://www.youtube.com/watch?v=ytZxIwy5rJk)
-- [Day 16 of #30daysofspokenskills #NxtWave on 2024/08/09 at 22:22:03 by @rupesh_darimisetti](https://www.youtube.com/watch?v=tRprU1cPFCI)
 <!-- YOUTUBE:END -->
 --- 
 
