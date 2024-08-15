@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#nxtwave #Day21 of #30daysSpokenSkills on 2024/08/15 at 23:45:50  by @rupesh_darimisetti](https://www.youtube.com/watch?v=zxNiQ5AOnfI)
 - [Encapsulation Coding Practice  in python on 2024/08/14 at 23:09:00 by @rupesh_darimisetti](https://www.youtube.com/watch?v=leQoCmAUdb8)
 - [#nxtwave #Day20 of #30daysSpokenSkills on 2024/08/14 at 23:45:45 by @rupesh_darimisetti](https://www.youtube.com/watch?v=1F3d2tZMI-M)
 - [Foundation Exams 3 on 2024/08/13 at 20:50:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=OX2y91TOw1o)
 - [#nxtwave #Day19 of #30daysSpokenSkills on 2024/08/13 at 22:19:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=4PQX_EuP0s8)
-- [#nxtwave #Day18 of #30daysSpokenSkills on 2024/08/12  at 22:50:12 by @rupesh_darimisetti](https://www.youtube.com/watch?v=IyKtO4Lqb2g)
 <!-- YOUTUBE:END -->
 --- 
 
