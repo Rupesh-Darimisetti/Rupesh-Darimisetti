@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#nxtwave JS Variables Coding Practice 1 on 2024/08/21 at 22:43:25 by @rupesh_darimisetti](https://www.youtube.com/watch?v=ErA1DItWc7E)
+- [#nxtwave Coding Practice 3 on 2024/08/21 at 21:25:19 by @rupesh_darimisetti](https://www.youtube.com/watch?v=hQj0WquNITk)
 - [#nxtwave #Day25 of #30daysSpokenSkills on 2024/08/21 at 00:51:48 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2Ww61GAUSwA)
 - [#nxtwave Grand Assessment 34 on 2024/08/19 at 22:31:31 by @rupesh_darimisetti](https://www.youtube.com/watch?v=RvMxyP9ZVcU)
 - [#nxtwave #Day24 of #30daysSpokenSkills on 2024/08/20 at 00:27:05 by @rupesh_darimisetti](https://www.youtube.com/watch?v=D1xKF1Y9PsU)
-- [#nxtwave #Day23 of #30daysSpokenSkills on 2024/08/17 at 22:08:18 by @rupesh_darimisetti](https://www.youtube.com/watch?v=_t3CgYZhRhI)
-- [#nxtwave coding practice 34 on 2024/08/17 at 14:40:25 by @rupesh_darimisetti](https://www.youtube.com/watch?v=KgsRRgpdAXM)
 <!-- YOUTUBE:END -->
 --- 
 
