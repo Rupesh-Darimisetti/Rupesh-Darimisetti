@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#nxtwave Calendar 2 Basic Exercise on 2024/09/03 at 23:18:45 by @rupesh_darimisetti](https://www.youtube.com/watch?v=NqgFABQUGwU)
+- [#nxtwave Coding Practice 14 on 2024/09/03 at 21:32:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=zpHJcfmD20c)
 - [#nxtwave JS Coding Practice 15 on 2024/09/03 at 20:51:07 by @rupesh_darimisetti](https://www.youtube.com/watch?v=xnYMqw__MZY)
 - [#nxtwave Future Perfect Continuous A,B, Assessment on 2024/09/03 at 20:04:18 by @rupesh_darimisetti](https://www.youtube.com/watch?v=n_nlW5HsgeA)
 - [#nxtwave JS Fetch, Callback MCQ Practice17,18,19 on 2024/09/02 at 22:42:30 by @rupesh_darimisetti](https://www.youtube.com/watch?v=diyHJzCV52s)
-- [#nxtwave Calendar 1 Basic Exercise on 2024/09/02 at 22:24:15 by @rupesh_darimisetti](https://www.youtube.com/watch?v=XOWE3YYphm0)
-- [#nxtwave Future Perfect Practice Set B, Assessment on 2024/09/02 at 22:06:17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=SyB9YzJzvp0)
 <!-- YOUTUBE:END -->
 --- 
 
