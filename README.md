@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [JS fetch, callback Coding Assignment 1 on 2024/09/04 at 22:29:06 by @rupesh_darimisetti | #NxtWave](https://www.youtube.com/watch?v=RVsDW3B39lk)
 - [Calendars Assessment on 2024/09/04 at 21:57:00 by @rupesh_darimisetti](https://www.youtube.com/watch?v=NlGQA1iCI1Y)
 - [Calendars company specific MCQ&#39;s on 2024:09:04 at 21:23:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=HJ6Q-LRJAT4)
 - [Fetch Callback 2 - Practice 20,21 on 2024/09/04 at 21:00:08 by @rupesh_darimisetti](https://www.youtube.com/watch?v=-tOU-mfil94)
 - [modal verbs Practice set A on 2024/09/04 at 20:53:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2yLTPp5VXww)
-- [#nxtwave Calendar 2 Basic Exercise on 2024/09/03 at 23:18:45 by @rupesh_darimisetti](https://www.youtube.com/watch?v=NqgFABQUGwU)
 <!-- YOUTUBE:END -->
 --- 
 
