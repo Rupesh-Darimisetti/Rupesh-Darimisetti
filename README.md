@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Coding Practice 19 on 2024/09/06 at 22:53:05 by @rupesh_darimisetti](https://www.youtube.com/watch?v=grvTir-K3KE)
 - [Practice 22,23 on 202409/06 at 22:30 :08 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Jz345Qg2Tq8)
 - [Cumulative Assessment  on Clocks, Calendars on 2024/09/06 at 22:03:23 by @rupesh_darimisetti](https://www.youtube.com/watch?v=33_7kCVX9NA)
 - [JS Fetch Callback 2 Coding Practice 18 on 2024/09/05 at 23:51:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=VgDxaBDbldU)
 - [Coding Practice 17 on 2024/09/05 at 23:09:13 by @rupesh_darimisetti](https://www.youtube.com/watch?v=52dOaLrIGik)
-- [Coding Practice 16 on 2024/09/05 at 20:23:37 by @rupesh_darimisetti](https://www.youtube.com/watch?v=q9jNQl4EdII)
 <!-- YOUTUBE:END -->
 --- 
 
