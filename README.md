@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MCQ Assignment 3,4,5 on 2024/09/09 at 22:59:55 by @rupesh_darimisetti](https://www.youtube.com/watch?v=vzZEwh0W0J8)
+- [MCQ Assignment 1,2 on 2024/09/09 at 22:47:11 by @rupesh_darimisetti](https://www.youtube.com/watch?v=zqLgu_-4uNM)
+- [Data Interpretation Basic Exercise on 2024/09/09 at 22:22:01 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Z9mYN0ME8Qg)
 - [Question Making with Question words on 2024/09/09 at 22:07:01 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nQMTgzGlysI)
 - [Coding Practice 19 on 2024/09/06 at 22:53:05 by @rupesh_darimisetti](https://www.youtube.com/watch?v=grvTir-K3KE)
-- [Practice 22,23 on 202409/06 at 22:30 :08 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Jz345Qg2Tq8)
-- [Cumulative Assessment  on Clocks, Calendars on 2024/09/06 at 22:03:23 by @rupesh_darimisetti](https://www.youtube.com/watch?v=33_7kCVX9NA)
-- [JS Fetch Callback 2 Coding Practice 18 on 2024/09/05 at 23:51:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=VgDxaBDbldU)
 <!-- YOUTUBE:END -->
 --- 
 
