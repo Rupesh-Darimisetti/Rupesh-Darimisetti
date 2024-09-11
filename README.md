@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Coding Test 1 on 2024/09/11 at 22:15:09 by @rupesh_darimisetti](https://www.youtube.com/watch?v=-KIKr4khAr0)
 - [DI Graph Basic Exercise on 2024/09/11 at 20:30:13 by @rupesh_darimisetti](https://www.youtube.com/watch?v=vZkHK2nlc4c)
 - [Question Making with Question Words Assessment, set B 2024/09/11 at 19:47:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=866hivexYYY)
 - [Question Making with question verbs on 2024/09/10 at 22:44:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=5f68RMy1PMY)
 - [MCQ Assignment 3,4,5 on 2024/09/09 at 22:59:55 by @rupesh_darimisetti](https://www.youtube.com/watch?v=vzZEwh0W0J8)
-- [MCQ Assignment 1,2 on 2024/09/09 at 22:47:11 by @rupesh_darimisetti](https://www.youtube.com/watch?v=zqLgu_-4uNM)
 <!-- YOUTUBE:END -->
 --- 
 
