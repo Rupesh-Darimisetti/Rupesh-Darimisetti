@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MCQ Test 1 on 2024/09/12 at 22:26:21 by @rupesh_darimisetti](https://www.youtube.com/watch?v=LxWobYw_-Uw)
+- [DI Pie Chart Basic Exercise on 2024/09/12 at 22:08:37 by @rupesh_darimisetti](https://www.youtube.com/watch?v=y_IHdDau2-8)
 - [Active &amp; Passive Voice on 2024/09/12 at 19:48:51 by @rupesh_darimisetti](https://www.youtube.com/watch?v=1RAAIP9rWgE)
 - [Coding Test 2 on 2024/09/11 at 23:01:07 by @rupesh_darimisetti](https://www.youtube.com/watch?v=G--9YugWePM)
 - [Coding Test 1 on 2024/09/11 at 22:15:09 by @rupesh_darimisetti](https://www.youtube.com/watch?v=-KIKr4khAr0)
-- [DI Graph Basic Exercise on 2024/09/11 at 20:30:13 by @rupesh_darimisetti](https://www.youtube.com/watch?v=vZkHK2nlc4c)
-- [Question Making with Question Words Assessment, set B 2024/09/11 at 19:47:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=866hivexYYY)
 <!-- YOUTUBE:END -->
 --- 
 
