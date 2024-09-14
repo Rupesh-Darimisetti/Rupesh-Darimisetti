@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Mock Test 2 on 2024/09/14 at 16:08:41 by @rupesh_darimisetti](https://www.youtube.com/watch?v=GKPeNuPGIRw)
 - [JS Coding Test 1 on 2024/09/14 at 14:38:05 by @rupesh_darimisetti](https://www.youtube.com/watch?v=ES4oXO26OEI)
 - [Coding Test 4 on 2024/09/14 at 13:41:04 by @rupesh_darimisetti](https://www.youtube.com/watch?v=JiMMtp6UAjc)
 - [MCQ Test 2 Failed on 2024/09/13 at 22:57:33 by @rupesh_darimisetti](https://www.youtube.com/watch?v=6EhOuawx-O4)
 - [Data Interpretation Company Specific MCQ on 2024/09/13 at 22:19:42 by @rupesh_darimisetti](https://www.youtube.com/watch?v=XFMA82HAR5Q)
-- [MCQ Practice Operating system on 2024/09/13 at 21:54:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=CPhQ1FWLctQ)
 <!-- YOUTUBE:END -->
 --- 
 
