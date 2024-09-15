@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Programming Foundations Course Exam 2 on 2024/09/15 at 18:34:08 by @rupesh_darimisetti](https://www.youtube.com/watch?v=LeITaX9edyE)
 - [Data Interpretation Assessment on 2024/09/15 at 16:58:05 by @rupesh_darimisetti](https://www.youtube.com/watch?v=25bgTpCyAqA)
 - [MCQ Practice on Operating Sys and process of OS on 2024/09/14 at 23:23:02 by @rupesh_darimisetti](https://www.youtube.com/watch?v=oUWgR0SAqH0)
 - [Coding Test 4 on 2024/09/14 at 21:32:21 by @rupesh_darimisetti](https://www.youtube.com/watch?v=sZhkaJkkaOk)
 - [Question Tags on 2024/09/14 at 23:15:33 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qt4YqlwNHYk)
-- [Database Course Exam on 2024/09/14 at 18:12:34 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Loa0GhL2cv4)
 <!-- YOUTUBE:END -->
 --- 
 
