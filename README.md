@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Ranking Assessment on 2024/09/17 at 22:27:11 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nzIrk8MjuhE)
 - [Company specific MCQ on 2024/09/17 at 21:36:15 by @rupesh_darimisetti](https://www.youtube.com/watch?v=folFMVxY61c)
 - [PreDrill Warm Up Spoken skills Applied Exercise 1,2 on 2024/09/17 at 21:23:25 by @rupesh_darimisetti](https://www.youtube.com/watch?v=YYnOlhRoa2A)
 - [Ranking Basic Exercise on 2024/09/16 at 23:04:51 by @rupesh_darimisetti](https://www.youtube.com/watch?v=dz27djtcDF8)
 - [Question Words Assessment, Practice set B on 2024/09/16 at 22:50:24 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wgQhSuGAIQY)
-- [Programming Foundations Course Exam 2 on 2024/09/15 at 18:34:08 by @rupesh_darimisetti](https://www.youtube.com/watch?v=LeITaX9edyE)
 <!-- YOUTUBE:END -->
 --- 
 
