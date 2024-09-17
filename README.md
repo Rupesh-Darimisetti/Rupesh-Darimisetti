@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MCQ Practice on Networking and command interface on 2024/09/17 at 23:49:37 by @rupesh_darimisetti](https://www.youtube.com/watch?v=42SnjaSjSjg)
+- [MCQ Practice Fundamental of CS Networking on 2024/09/17 at 23:08:06 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Hki2_Ses41M)
 - [Ranking Assessment on 2024/09/17 at 22:27:11 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nzIrk8MjuhE)
 - [Company specific MCQ on 2024/09/17 at 21:36:15 by @rupesh_darimisetti](https://www.youtube.com/watch?v=folFMVxY61c)
 - [PreDrill Warm Up Spoken skills Applied Exercise 1,2 on 2024/09/17 at 21:23:25 by @rupesh_darimisetti](https://www.youtube.com/watch?v=YYnOlhRoa2A)
-- [Ranking Basic Exercise on 2024/09/16 at 23:04:51 by @rupesh_darimisetti](https://www.youtube.com/watch?v=dz27djtcDF8)
-- [Question Words Assessment, Practice set B on 2024/09/16 at 22:50:24 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wgQhSuGAIQY)
 <!-- YOUTUBE:END -->
 --- 
 
