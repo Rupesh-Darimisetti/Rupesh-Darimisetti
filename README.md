@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Directions Basic Exercise on 2024/ 09/19 at 21:49:12 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qU1FCCW_zWQ)
 - [Collaboration with Git on 2024/09/18 at 22:3656 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=knrPzUJJegI)
 - [English Pre-Drill on 2024/09/18 at 22:22:40 by @rupesh_darimisetti](https://www.youtube.com/watch?v=oUiZaDsh2lM)
 - [Working with command line on 2024/09/18 at 22:05:32 by @rupesh_darimisetti](https://www.youtube.com/watch?v=ODMpPL18y0U)
 - [MCQ Practice on Networking and command interface on 2024/09/17 at 23:49:37 by @rupesh_darimisetti](https://www.youtube.com/watch?v=42SnjaSjSjg)
-- [MCQ Practice Fundamental of CS Networking on 2024/09/17 at 23:08:06 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Hki2_Ses41M)
 <!-- YOUTUBE:END -->
 --- 
 
