@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [More Modern JS Concepts - JS Coding Practice 1 on 2024/09/20 at 23:24:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=AL5BfraeFSA)
+- [Directions Assessment on 2024/09/20 at 22:54:19 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Ll1Wfx0CV3A)
+- [Explorer Drill 1 A,B, 2 A,B on 2024/09/20 at 22:29:05 by @rupesh_darimisetti](https://www.youtube.com/watch?v=R_k8zI3IGK4)
 - [Modern JS Concepts Practice 1-4  MCQ&#39;s on 2024/09/20 at 00:05:07 by @rupesh_darimisetti](https://www.youtube.com/watch?v=oKVurya8fi8)
 - [Pre-drill Warm Up Exercise 6-10 on 2024/09/19 at 23:19:56 by @rupesh_darimisetti](https://www.youtube.com/watch?v=gpvdtuqHrG0)
-- [Directions Company Specific MCQ on 2024/09/19 at 22:24:45 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Diofk-1lhX8)
-- [Directions Basic Exercise on 2024/ 09/19 at 21:49:12 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qU1FCCW_zWQ)
-- [Collaboration with Git on 2024/09/18 at 22:3656 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=knrPzUJJegI)
 <!-- YOUTUBE:END -->
 --- 
 
