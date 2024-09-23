@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Number Series Basic Exercise on 2024/09/23 at 21:05:06 by @rupesh_darimisetti](https://www.youtube.com/watch?v=CGzkY5VsBek)
+- [Spoken Skills Drill 4 A,B on 2024/09/23 at 20:53:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=oTsXZwezZ3c)
+- [Build Your Own Static Website Course Exam on 2024/09/23 at 18:32:53 by @rupesh_darimisetti](https://www.youtube.com/watch?v=K_qtu3kKsm4)
 - [More Modern JS Concepts - JS Coding Practice 4 on 2024/09/21 at 14:35:35 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qwcxuVksQwA)
 - [Practice 5,6,7 of Modern JS and prototype on 2024/09/21 at 14:15:38 by @rupesh_darimisetti](https://www.youtube.com/watch?v=WQWNTxrFLQw)
-- [Cumulative Assessment on 2024/09/21 at 13:37:26 by @rupesh_darimisetti](https://www.youtube.com/watch?v=probZILeb2Q)
-- [Explorer Drill 3 A,B on 2024/09/21 at 13:24:29 by @rupesh_darimisetti](https://www.youtube.com/watch?v=ZT1l_C3-guE)
-- [More Modern JS Concept - JS Coding Practice 3 on 2024/09/21 at 00:02:59 by @rupesh_darimisetti](https://www.youtube.com/watch?v=LZaOlYI90Bg)
 <!-- YOUTUBE:END -->
 --- 
 
