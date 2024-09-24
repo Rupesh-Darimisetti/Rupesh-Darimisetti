@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Promises and Array Methods JS Coding Practice 8 on 2024/09/24 at 22:27:02 by @rupesh_darimisetti](https://www.youtube.com/watch?v=D8xwBtptQ0s)
 - [Promises and Array Methods Practice 10, 11, 12, 13 on 2024/0924 a 21 53 17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Wz7xYsZ0fLc)
 - [Spoken skills applied Drill 5 A, B on 2024/09/24 at 21:41:31 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wmnniiWRBn0)
 - [JS Prototype and Classes - Coding Practice 7 on 2024/09/23 at 23:12:35 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=71FHNg4_4hI)
 - [JS Protype and Classes - Coding Practice 6 on  2024/09/23 at 22:36:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=DtVHdpwRbZI)
-- [JS Protype and Classes - Coding Practice 5 on 2024/09/23 at 22:17:42 by @rupesh_darimisetti](https://www.youtube.com/watch?v=4zF9tKublvs)
 <!-- YOUTUBE:END -->
 --- 
 
