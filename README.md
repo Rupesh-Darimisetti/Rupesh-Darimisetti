@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Promises and Array Methods JS Coding Practice 8 on 2024/09/24 at 22:27:02 by @rupesh_darimisetti](https://www.youtube.com/watch?v=D8xwBtptQ0s)
-- [Promises and Array Methods Practice 10, 11, 12, 13 on 2024/0924 a 21 53 17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=Wz7xYsZ0fLc)
-- [Spoken skills applied Drill 5 A, B on 2024/09/24 at 21:41:31 by @rupesh_darimisetti](https://www.youtube.com/watch?v=wmnniiWRBn0)
-- [JS Prototype and Classes - Coding Practice 7 on 2024/09/23 at 23:12:35 by  @rupesh_darimisetti](https://www.youtube.com/watch?v=71FHNg4_4hI)
-- [JS Protype and Classes - Coding Practice 6 on  2024/09/23 at 22:36:57 by @rupesh_darimisetti](https://www.youtube.com/watch?v=DtVHdpwRbZI)
+- [how to apply for an Original degree in JNTU GV and its affiliated colleges](https://www.youtube.com/watch?v=Fb4Nzm2ieqI)
+- [శ్రీ పైదిమంబా కోతి  దీపారాధన పెడమడక అగనంపుది గ్రామం March 25, 2024](https://www.youtube.com/watch?v=IQM79eEKN3E)
+- [జై హనుమానా జ్ఞాన గునసగరా Hanuman song performance March 25, 2024](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
+- [kashmura song performance at Aganampudi village pedamadaka colony శ్రీ పైదిమంబా 25/03/ 2024](https://www.youtube.com/watch?v=uFQR7T3-2AM)
+- [Shiva song performance March 25, 2024](https://www.youtube.com/watch?v=If9eI9GKNlY)
 <!-- YOUTUBE:END -->
 --- 
 
