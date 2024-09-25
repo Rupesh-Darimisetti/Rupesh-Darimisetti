@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [how to apply for an Original degree in JNTU GV and its affiliated colleges](https://www.youtube.com/watch?v=Fb4Nzm2ieqI)
-- [శ్రీ పైదిమంబా కోతి  దీపారాధన పెడమడక అగనంపుది గ్రామం March 25, 2024](https://www.youtube.com/watch?v=IQM79eEKN3E)
-- [జై హనుమానా జ్ఞాన గునసగరా Hanuman song performance March 25, 2024](https://www.youtube.com/watch?v=Ql7L4UIqdz0)
-- [kashmura song performance at Aganampudi village pedamadaka colony శ్రీ పైదిమంబా 25/03/ 2024](https://www.youtube.com/watch?v=uFQR7T3-2AM)
-- [Shiva song performance March 25, 2024](https://www.youtube.com/watch?v=If9eI9GKNlY)
+- [Day 30 of #NxtWave Speaking Skills presentation on 2024/08/28 at 00:46:17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qCrTTHC3GH4)
+- [Day 29 of #NxtWave Speaking Skills presentation on  2024/08/26 at 22:04:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=l8wZh4nAmxU)
+- [#nxtwave #Day28 of #30daysSpokenSkills on2024/08/24 at 00:47:40 by @rupesh_darimisetti](https://www.youtube.com/watch?v=r0r97WtxG98)
+- [#nxtwave #Day26 of #30daysSpokenSkills on2024/08/22 at 23:22:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=T3nCg-DFJD8)
+- [#nxtwave #Day26 of #30daysSpokenSkills on 2024/08/22 at 00:07:56 by @rupesh_darimisetti](https://www.youtube.com/watch?v=H1EhAfuysIE)
 <!-- YOUTUBE:END -->
 --- 
 
