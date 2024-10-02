@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Claim Holopin Badge, Reg for App Write Hackathon on 2024/10/02 at  23:30:52 by @rupesh_darimisetti](https://www.youtube.com/watch?v=m5BdZN7UAPo)
+- [Hacktoberfest Registration on 2024/10/02 at 22:55:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=MnMtxjO3CmE)
 - [Day 30 of #NxtWave Speaking Skills presentation on 2024/08/28 at 00:46:17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qCrTTHC3GH4)
 - [Day 29 of #NxtWave Speaking Skills presentation on  2024/08/26 at 22:04:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=l8wZh4nAmxU)
 - [#nxtwave #Day28 of #30daysSpokenSkills on2024/08/24 at 00:47:40 by @rupesh_darimisetti](https://www.youtube.com/watch?v=r0r97WtxG98)
-- [#nxtwave #Day26 of #30daysSpokenSkills on2024/08/22 at 23:22:54 by @rupesh_darimisetti](https://www.youtube.com/watch?v=T3nCg-DFJD8)
-- [#nxtwave #Day26 of #30daysSpokenSkills on 2024/08/22 at 00:07:56 by @rupesh_darimisetti](https://www.youtube.com/watch?v=H1EhAfuysIE)
 <!-- YOUTUBE:END -->
 --- 
 
