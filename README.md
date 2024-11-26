@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Night time Lighting view of Godavari river from train](https://www.youtube.com/watch?v=-_R2zBl7tz8)
+- [Night view Godavari bridge](https://www.youtube.com/watch?v=oZhB5C9dau0)
 - [Claim Holopin Badge, Reg for App Write Hackathon on 2024/10/02 at  23:30:52 by @rupesh_darimisetti](https://www.youtube.com/watch?v=m5BdZN7UAPo)
 - [Hacktoberfest Registration on 2024/10/02 at 22:55:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=MnMtxjO3CmE)
 - [Day 30 of #NxtWave Speaking Skills presentation on 2024/08/28 at 00:46:17 by @rupesh_darimisetti](https://www.youtube.com/watch?v=qCrTTHC3GH4)
-- [Day 29 of #NxtWave Speaking Skills presentation on  2024/08/26 at 22:04:47 by @rupesh_darimisetti](https://www.youtube.com/watch?v=l8wZh4nAmxU)
-- [#nxtwave #Day28 of #30daysSpokenSkills on2024/08/24 at 00:47:40 by @rupesh_darimisetti](https://www.youtube.com/watch?v=r0r97WtxG98)
 <!-- YOUTUBE:END -->
 --- 
 
