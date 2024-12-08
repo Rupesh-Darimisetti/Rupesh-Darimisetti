@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [React Js Color Gradient Generator styled using styled components library](https://www.youtube.com/watch?v=AHlctG8aZAY)
 - [Planet app created using React JS #reactjs #slide](https://www.youtube.com/watch?v=g-QfS_hG7PA)
 - [Night time Lighting view of Godavari river from train](https://www.youtube.com/watch?v=-_R2zBl7tz8)
 - [Night view Godavari bridge](https://www.youtube.com/watch?v=oZhB5C9dau0)
 - [Claim Holopin Badge, Reg for App Write Hackathon on 2024/10/02 at  23:30:52 by @rupesh_darimisetti](https://www.youtube.com/watch?v=m5BdZN7UAPo)
-- [Hacktoberfest Registration on 2024/10/02 at 22:55:20 by @rupesh_darimisetti](https://www.youtube.com/watch?v=MnMtxjO3CmE)
 <!-- YOUTUBE:END -->
 --- 
 
