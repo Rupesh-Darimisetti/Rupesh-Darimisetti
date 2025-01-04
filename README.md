@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [January 4, 2025](https://www.youtube.com/watch?v=SjKplRrXEO0)
 - [Reflections on My NXT Wave Coding Journey in 2024 since May 16 2024.](https://www.youtube.com/watch?v=MoWQ4PlA9HA)
 - [React Js Color Gradient Generator styled using styled components library](https://www.youtube.com/watch?v=AHlctG8aZAY)
 - [Planet app created using React JS #reactjs #slide](https://www.youtube.com/watch?v=g-QfS_hG7PA)
 - [Night time Lighting view of Godavari river from train](https://www.youtube.com/watch?v=-_R2zBl7tz8)
-- [Night view Godavari bridge](https://www.youtube.com/watch?v=oZhB5C9dau0)
 <!-- YOUTUBE:END -->
 --- 
 
