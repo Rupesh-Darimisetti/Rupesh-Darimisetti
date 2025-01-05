@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Jan 4 2025 Navy day crackers and drone show](https://www.youtube.com/watch?v=Le-AkOfedw4)
+- [Jan 4 2025 Eastern Naval Command - Navy day crackers, laser and drone show](https://www.youtube.com/watch?v=Le-AkOfedw4)
 - [January 4, 2025](https://www.youtube.com/watch?v=SjKplRrXEO0)
 - [Reflections on My NXT Wave Coding Journey in 2024 since May 16 2024.](https://www.youtube.com/watch?v=MoWQ4PlA9HA)
 - [React Js Color Gradient Generator styled using styled components library](https://www.youtube.com/watch?v=AHlctG8aZAY)
