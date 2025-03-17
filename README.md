@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [March 17, 2025](https://www.youtube.com/watch?v=WVyqz74o2pc)
 - [Bhogi 2025 celebration 💐🎉🎉 #festival #bhogi #2025](https://www.youtube.com/watch?v=5HyNBUbmvEM)
 - [Jan 4 2025 Eastern Naval Command - Navy day crackers, laser and drone show](https://www.youtube.com/watch?v=Le-AkOfedw4)
 - [January 4, 2025](https://www.youtube.com/watch?v=SjKplRrXEO0)
 - [Reflections on My NXT Wave Coding Journey in 2024 since May 16 2024.](https://www.youtube.com/watch?v=MoWQ4PlA9HA)
-- [React Js Color Gradient Generator styled using styled components library](https://www.youtube.com/watch?v=AHlctG8aZAY)
 <!-- YOUTUBE:END -->
 --- 
 
