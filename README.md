@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Manipur ring, pyramperformance](https://www.youtube.com/watch?v=cxw2GW_zsPU)
+- [Kantara song performance](https://www.youtube.com/watch?v=gbP22bTF1zk)
+- [March 18, 2025](https://www.youtube.com/watch?v=WsdKVPniEAo)
+- [March 18, 2025](https://www.youtube.com/watch?v=huAo0-pY1g8)
+- [Manipur ring, pyramid performance](https://www.youtube.com/watch?v=cxw2GW_zsPU)
 - [March 17, 2025](https://www.youtube.com/watch?v=BmwUAXzM0lY)
-- [Manipur comedy dance performance in Aganampudi](https://www.youtube.com/watch?v=1OJrx1dkypE)
-- [Bamboo Stick rotation performance](https://www.youtube.com/watch?v=5-jMfXdI6AI)
-- [March 17, 2025](https://www.youtube.com/watch?v=raNHZk3Hry8)
 <!-- YOUTUBE:END -->
 --- 
 
