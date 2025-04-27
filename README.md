@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Running training/ practice in ukku stadium](https://www.youtube.com/watch?v=6kWvhG35Kdk)
 - [Night view of tirupati](https://www.youtube.com/watch?v=I5SSleLmw50)
 - [Kantara song performance](https://www.youtube.com/watch?v=gbP22bTF1zk)
 - [March 18, 2025](https://www.youtube.com/watch?v=WsdKVPniEAo)
 - [March 18, 2025](https://www.youtube.com/watch?v=huAo0-pY1g8)
-- [Manipur ring, pyramid performance](https://www.youtube.com/watch?v=cxw2GW_zsPU)
 <!-- YOUTUBE:END -->
 --- 
 
