@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Daily puzzle of 20-05-20205 of chess.com](https://www.youtube.com/watch?v=FwpkUGK1C-g)
+- [Solve 3 puzzle 🧩 chess in chess.com](https://www.youtube.com/watch?v=OpqpaW9wAuY)
 - [Under 16 Running  Practice in Ukku stadium of Ukkunagaram](https://www.youtube.com/watch?v=6kWvhG35Kdk)
 - [Night view of tirupati](https://www.youtube.com/watch?v=I5SSleLmw50)
 - [Kantara song performance](https://www.youtube.com/watch?v=gbP22bTF1zk)
-- [March 18, 2025](https://www.youtube.com/watch?v=WsdKVPniEAo)
-- [March 18, 2025](https://www.youtube.com/watch?v=huAo0-pY1g8)
 <!-- YOUTUBE:END -->
 --- 
 
