@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Day 22-05-2025 puzzle solution](https://www.youtube.com/watch?v=xckyX_dKc7c)
 - [solve a puzzle with elephants attacking the king by capturing pieces #chess 🧩](https://www.youtube.com/watch?v=i0GY1X2VLoY)
 - [Day 21-05-2025 chess solution](https://www.youtube.com/watch?v=xJ-PmH9-qbY)
 - [Daily puzzle of 20-05-20205 of chess.com](https://www.youtube.com/watch?v=FwpkUGK1C-g)
 - [Solve 3 puzzle 🧩 chess in chess.com](https://www.youtube.com/watch?v=OpqpaW9wAuY)
-- [Under 16 Running  Practice in Ukku stadium of Ukkunagaram](https://www.youtube.com/watch?v=6kWvhG35Kdk)
 <!-- YOUTUBE:END -->
 --- 
 
