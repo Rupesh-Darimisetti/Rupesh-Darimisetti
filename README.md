@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [solve puzzle 🧩 dy 22-05-2025 #chess  #chessgame](https://www.youtube.com/watch?v=iHO9xDvT8Yc)
 - [Day 22-05-2025 puzzle solution](https://www.youtube.com/watch?v=xckyX_dKc7c)
 - [solve a puzzle with elephants attacking the king by capturing pieces #chess 🧩](https://www.youtube.com/watch?v=i0GY1X2VLoY)
 - [Day 21-05-2025 chess solution](https://www.youtube.com/watch?v=xJ-PmH9-qbY)
 - [Daily puzzle of 20-05-20205 of chess.com](https://www.youtube.com/watch?v=FwpkUGK1C-g)
-- [Solve 3 puzzle 🧩 chess in chess.com](https://www.youtube.com/watch?v=OpqpaW9wAuY)
 <!-- YOUTUBE:END -->
 --- 
 
