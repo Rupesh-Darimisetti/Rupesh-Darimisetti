@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Factor Basics Exercise on 2024/06/10 at 09:56:45 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nAt8DbDTDq4)
 - [solve the puzzle of day 23-05-2025 🧩](https://www.youtube.com/watch?v=FkotjKqvBPQ)
 - [daily puzzle of 23-05-2025](https://www.youtube.com/watch?v=Vg8fGHsC3xw)
 - [solve puzzle 🧩 dy 22-05-2025 #chess  #chessgame](https://www.youtube.com/watch?v=iHO9xDvT8Yc)
 - [Day 22-05-2025 puzzle solution](https://www.youtube.com/watch?v=xckyX_dKc7c)
-- [solve a puzzle with elephants attacking the king by capturing pieces #chess 🧩](https://www.youtube.com/watch?v=i0GY1X2VLoY)
 <!-- YOUTUBE:END -->
 --- 
 
