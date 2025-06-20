@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 - [NxtWave Factor Basics Exercise on 2024/06/10 at 09:56:45 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nAt8DbDTDq4)
 - [solve the puzzle of day 23-05-2025 🧩](https://www.youtube.com/shorts/FkotjKqvBPQ)
 - [daily puzzle of 23-05-2025](https://www.youtube.com/shorts/Vg8fGHsC3xw)
-- [solve puzzle 🧩 dy 22-05-2025 #chess  #chessgame](https://www.youtube.com/watch?v=iHO9xDvT8Yc)
+- [solve puzzle 🧩 dy 22-05-2025 #chess  #chessgame](https://www.youtube.com/shorts/iHO9xDvT8Yc)
 <!-- YOUTUBE:END -->
 --- 
 
