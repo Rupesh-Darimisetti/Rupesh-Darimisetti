@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [LinkedIn zip #107](https://www.youtube.com/shorts/6XxZlUK9pMA)
 - [connection](https://www.youtube.com/shorts/ixbRgTyOypE)
 - [Mini Project Quiz App Explanation on 2025-06-19 at 18:30:49](https://www.youtube.com/watch?v=SWyc_CJCSgo)
 - [NxtWave Factor Basics Exercise on 2024/06/10 at 09:56:45 by @rupesh_darimisetti](https://www.youtube.com/watch?v=nAt8DbDTDq4)
 - [solve the puzzle of day 23-05-2025 🧩](https://www.youtube.com/shorts/FkotjKqvBPQ)
-- [daily puzzle of 23-05-2025](https://www.youtube.com/shorts/Vg8fGHsC3xw)
 <!-- YOUTUBE:END -->
 --- 
 
