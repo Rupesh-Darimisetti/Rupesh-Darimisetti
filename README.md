@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [బ్రాహ్మ కమరలూ తొమ్మిది ఉన్నాయి on July 16, 2025](https://www.youtube.com/shorts/-s0pcpNrtck)
 - [LinkedIn zip #113](https://www.youtube.com/shorts/4dA0Lx9cLjA)
 - [LinkedIn zip #112](https://www.youtube.com/shorts/jQ-hC74cXpE)
 - [LinkedIn zip #107](https://www.youtube.com/shorts/6XxZlUK9pMA)
 - [connection](https://www.youtube.com/shorts/ixbRgTyOypE)
-- [Mini Project Quiz App Explanation on 2025-06-19 at 18:30:49](https://www.youtube.com/watch?v=SWyc_CJCSgo)
 <!-- YOUTUBE:END -->
 --- 
 
