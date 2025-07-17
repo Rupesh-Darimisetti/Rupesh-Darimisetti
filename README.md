@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [బ్రాహ్మ కమరలూ తొమ్మిది ఉన్నాయి on July 16, 2025](https://www.youtube.com/shorts/-s0pcpNrtck)
+- [బ్రాహ్మ కమలాలు తొమ్మిది ఉన్నాయి on July 16, 2025](https://www.youtube.com/shorts/-s0pcpNrtck)
 - [LinkedIn zip #113](https://www.youtube.com/shorts/4dA0Lx9cLjA)
 - [LinkedIn zip #112](https://www.youtube.com/shorts/jQ-hC74cXpE)
 - [LinkedIn zip #107](https://www.youtube.com/shorts/6XxZlUK9pMA)
