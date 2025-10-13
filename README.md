@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [@rupesh_darimisetti Oauth integration of hubspot, others for an assignment](https://www.youtube.com/watch?v=_V5Xb5mwxE4)
+- [Hill climb racing X mass game play with monster truck fully upgraded one.](https://www.youtube.com/watch?v=k5NVhxjTMV4)
+- [Hill climbs  racing super country side with monster truck](https://www.youtube.com/watch?v=SBvODb5P30c)
 - [Ruby 3.4.3 setup from rubyinstaller archives and setup of gumroad project on 2025/0/ 27 at 14:51:43](https://www.youtube.com/watch?v=LclNNz-tjzw)
 - [బ్రాహ్మ కమలాలు తొమ్మిది ఉన్నాయి on July 16, 2025](https://www.youtube.com/shorts/-s0pcpNrtck)
-- [LinkedIn zip #113](https://www.youtube.com/shorts/4dA0Lx9cLjA)
-- [LinkedIn zip #112](https://www.youtube.com/shorts/jQ-hC74cXpE)
-- [LinkedIn zip #107](https://www.youtube.com/shorts/6XxZlUK9pMA)
 <!-- YOUTUBE:END -->
 --- 
 
