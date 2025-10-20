@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Attacking and developing pieces to check mate with the coach in chess.com](https://www.youtube.com/watch?v=HyRDflilgeg)
+- [Chess ♟️ pieces 🧩 dev Attacking and developing pieces to check mate with the coach in chess.com](https://www.youtube.com/watch?v=HyRDflilgeg)
 - [puzzles](https://www.youtube.com/shorts/DvZF7wop3Ck)
 - [October 20, 2025](https://www.youtube.com/shorts/Stm5J0ckZ_I)
 - [@rupesh_darimisetti Oauth integration of hubspot, others for an assignment](https://www.youtube.com/watch?v=_V5Xb5mwxE4)
