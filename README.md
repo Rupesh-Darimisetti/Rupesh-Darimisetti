@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Attacking and developing pieces to check mate with the coach in chess.com](https://www.youtube.com/watch?v=HyRDflilgeg)
 - [puzzles](https://www.youtube.com/shorts/DvZF7wop3Ck)
 - [October 20, 2025](https://www.youtube.com/shorts/Stm5J0ckZ_I)
 - [@rupesh_darimisetti Oauth integration of hubspot, others for an assignment](https://www.youtube.com/watch?v=_V5Xb5mwxE4)
 - [Hill climb racing X mass game play with monster truck fully upgraded one.](https://www.youtube.com/watch?v=k5NVhxjTMV4)
-- [Hill climbs  racing super country side with monster truck](https://www.youtube.com/watch?v=SBvODb5P30c)
 <!-- YOUTUBE:END -->
 --- 
 
