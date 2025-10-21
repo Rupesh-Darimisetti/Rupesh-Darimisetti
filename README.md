@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Puzzle game with coach in chess.com](https://www.youtube.com/watch?v=E6zJc75pFAY)
 - [puzzle solving of chess in chess.com on 21-10-2025](https://www.youtube.com/shorts/xwOug5CKCwM)
 - [daily challenge](https://www.youtube.com/shorts/DJvzqhnI0u8)
 - [Chess ♟️ pieces 🧩 dev Attacking and developing pieces to check mate with the coach in chess.com](https://www.youtube.com/watch?v=HyRDflilgeg)
 - [puzzles](https://www.youtube.com/shorts/DvZF7wop3Ck)
-- [October 20, 2025](https://www.youtube.com/shorts/Stm5J0ckZ_I)
 <!-- YOUTUBE:END -->
 --- 
 
