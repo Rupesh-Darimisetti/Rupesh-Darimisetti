@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Why  do we need Web Developers?](https://rupeshdarimisetti.blogspot.com/2025/11/why-do-we-need-web-developers.html)
 - [GET/POST Operation in Django Framework](https://rupeshdarimisetti.blogspot.com/2025/07/getpost-operation-in-django-framework.html)
 - [JWT Authentication Code with usecses](https://rupeshdarimisetti.blogspot.com/2024/10/jwt-authentication-code-with-usecses.html)
 - [How is DevOps helping during a crisis like COVID-19?](https://rupeshdarimisetti.blogspot.com/2024/04/HowIsDevOpsHelpingDuringACrisisLikeCOVID-19.html)
 - [how to fix Round 2 Semi-Final TechGig Code Gladiator 2022](https://rupeshdarimisetti.blogspot.com/2022/06/techgig-code-gladiator-semi-final-round.html)
-- [How to show sitemap of your blog website](https://rupeshdarimisetti.blogspot.com/2022/06/how-to-show-sitemap-of-your-blog-website.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
