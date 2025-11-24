@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [solved chess puzzles using queen end game techniques 24-11-2025 #chess #chessgame](https://www.youtube.com/shorts/PPbryC8ql_4)
+- [Daily puzzle 🧩 chess 24-11-2025 #chess  #chessgame](https://www.youtube.com/shorts/vansT6CSYdw)
 - [Day 23-11-2025 chess.com puzzle solved #chess #chessgame](https://www.youtube.com/shorts/nL3UAiP2UeU)
 - [solved the puzzles of chess #chess](https://www.youtube.com/shorts/bGE5o0x8uKM)
 - [daily puzzle 27-10-2025](https://www.youtube.com/shorts/qK2hp7LUCAE)
-- [26-10-2025 chess puzzle 🧩 solution](https://www.youtube.com/shorts/Py26sW-Az6k)
-- [22/10/2025 puzzle solution chess.com #chess](https://www.youtube.com/shorts/Faq83bhO_ys)
 <!-- YOUTUBE:END -->
 --- 
 
