@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Daily chess ♟️ puzzle 🧩 on 01-12-2025 #chess #chessgame](https://www.youtube.com/shorts/61_NP2t5OM8)
+- [Daily chess ♟️ puzzle 🧩 on 02-12-2025 #chess #chessgame](https://www.youtube.com/shorts/61_NP2t5OM8)
 - [Daily chess ♟️ puzzle 🧩 on 01-12-2025 #chess #chessgame](https://www.youtube.com/shorts/-t0dAkRY2Qc)
 - [solve the chess puzzle 🧩 on 01-12-2025 #chess #chessgame](https://www.youtube.com/shorts/r7-v-lw1UgM)
 - [solve 3 chess  puzzles on 30-11-2025 #chess #chessgame  in @chess #onlinechess](https://www.youtube.com/shorts/BySytfRTixE)
