@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Backspace String Compare](https://rupeshdarimisetti.blogspot.com/2025/12/backspace-string-compare.html)
 - [How to build an React Native app?](https://rupeshdarimisetti.blogspot.com/2025/11/how-tobuild.html)
 - [What is a Binary Search?](https://rupeshdarimisetti.blogspot.com/2025/11/what-is-a-binary-search.html)
 - [Why  do we need Web Developers?](https://rupeshdarimisetti.blogspot.com/2025/11/why-do-we-need-web-developers.html)
 - [GET/POST Operation in Django Framework](https://rupeshdarimisetti.blogspot.com/2025/07/getpost-operation-in-django-framework.html)
-- [JWT Authentication Code with use cases](https://rupeshdarimisetti.blogspot.com/2024/10/jwt-authentication-code-with-usecses.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
