@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Daily chess ♟️ puzzle 🧩 on 11-12-2025 #chess #chessgame](https://www.youtube.com/shorts/hSa5YE-9oPo)
+- [solved 3 chess ♟️ puzzles 🧩 on 11-12-2025 #chess #chessgame](https://www.youtube.com/shorts/tCnrlcNq-Fg)
 - [Daily chess ♟️ puzzle 🧩 on 10-12-2025](https://www.youtube.com/shorts/fqBqntBpdts)
 - [Daily 3 chess ♟️ puzzles 🧩 on 10-12-2025 #chess #chessgame](https://www.youtube.com/shorts/8b27VzAGiwI)
 - [Daily Puzzle 🧩 on 09-12-2025 #chess #chessgame](https://www.youtube.com/shorts/c1Yfv2ZxSIY)
-- [solved 3 chess ♟️ puzzles 🧩 on 09-12-2025 #chess #chessgame](https://www.youtube.com/shorts/4bLjDdmNDDM)
-- [solved 3 chess ♟️ puzzle 🧩 on 08-12-2025.](https://www.youtube.com/shorts/eKDL504ANek)
 <!-- YOUTUBE:END -->
 --- 
 
