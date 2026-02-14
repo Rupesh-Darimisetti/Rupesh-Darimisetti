@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Codechef problem: 677A - A. Vanya and Fence](https://rupeshdarimisetti.blogspot.com/2026/02/codechef-problem-677a-vanya-and-fence.html)
 - [What is a Singleton Design Pattern?](https://rupeshdarimisetti.blogspot.com/2024/04/SingletonDesignPattern.html)
 - [A. Translation 41A code chef solution in java](https://rupeshdarimisetti.blogspot.com/2026/02/a-translation-41a-code-chef-solution-in.html)
 - [How to install ruby 3.4.3 in wsl ubuntu?](https://rupeshdarimisetti.blogspot.com/2026/01/how-to-install-ruby-343-in-wsl-ubuntu.html)
 - [3507. Minimum Pair Removal to Sort Array I](https://rupeshdarimisetti.blogspot.com/2026/01/3507-minimum-pair-removal-to-sort-array.html)
-- [Backspace String Compare](https://rupeshdarimisetti.blogspot.com/2025/12/backspace-string-compare.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
