@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [solved 3 chess ♟️ puzzle 🧩 on 03-03-2026 #chess #chessgame](https://www.youtube.com/shorts/P9oBJcHlfWg)
+- [see you later Daily chess ♟️ puzzle 🧩 on 03-03-2026 #chess #chessgame](https://www.youtube.com/shorts/UMFL6Bc7FlY)
 - [Solved 3 chess ♟️ puzzle 🧩 on 02-02-2026 #chess #chessgame](https://www.youtube.com/shorts/2KcUIaMnAH4)
 - [Excuse me Daily chess ♟️ puzzle 🧩 on 02-03-2026 #chess #chessgame](https://www.youtube.com/shorts/xDrbx2NjqQk)
 - [Hill climb racing in Mega desert land with monster truck](https://www.youtube.com/watch?v=Cc8MDv2fzkw)
-- [Solved 3 chess ♟️ puzzle 🧩 on 01-03-2026 #chess #chessgame](https://www.youtube.com/shorts/k5lM7myAquY)
-- [light up knight Daily chess ♟️ puzzle on 01-03-2026 #chess #chessgame](https://www.youtube.com/shorts/uxTIhVO8eFE)
 <!-- YOUTUBE:END -->
 --- 
 
