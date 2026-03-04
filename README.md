@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [solved 3 chess ♟️ puzzle 🧩 on 03-03-2026 #chess #chessgame](https://www.youtube.com/shorts/P9oBJcHlfWg)
-- [see you later Daily chess ♟️ puzzle 🧩 on 03-03-2026 #chess #chessgame](https://www.youtube.com/shorts/UMFL6Bc7FlY)
-- [Solved 3 chess ♟️ puzzle 🧩 on 02-02-2026 #chess #chessgame](https://www.youtube.com/shorts/2KcUIaMnAH4)
-- [Excuse me Daily chess ♟️ puzzle 🧩 on 02-03-2026 #chess #chessgame](https://www.youtube.com/shorts/xDrbx2NjqQk)
-- [Hill climb racing in Mega desert land with monster truck](https://www.youtube.com/watch?v=Cc8MDv2fzkw)
+- [Daily challenge junkyard runs with different vehicles. #hillclbracing2](https://www.youtube.com/watch?v=Q8xmrYck7X8)
+- [Daily challenge in hillclimb racing](https://www.youtube.com/watch?v=SDQnLydakV4)
+- [Unlocking all cards of garage in  vehicles and places hill climb racing game video](https://www.youtube.com/watch?v=x-eBPGcpsuc)
+- [Unlocking garage and building custom car](https://www.youtube.com/watch?v=RTtQkyOTFaE)
+- [Running moonlander in moon 🌙 #hillclimbracing2 #gaming](https://www.youtube.com/watch?v=-dayrsauyEs)
 <!-- YOUTUBE:END -->
 --- 
 
