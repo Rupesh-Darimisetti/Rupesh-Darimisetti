@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [huddle up Daily chess ♟️ puzzle 🧩 on 05-03-2026 #chess #chessgame](https://www.youtube.com/shorts/N_FblWX_7Z8)
 - [Solved 3 chess ♟️ puzzle 🧩 on 04-03-2026 #chess #chessgame](https://www.youtube.com/shorts/2QP0eRyH5_M)
 - [zig, zah, zap Daily chess ♟️ puzzle 🧩 on #04-03-2026 #chessgame #chess](https://www.youtube.com/shorts/T_p2OsecJVQ)
 - [Daily challenge junkyard runs with different vehicles. #hillclbracing2](https://www.youtube.com/watch?v=Q8xmrYck7X8)
 - [Daily challenge in hillclimb racing](https://www.youtube.com/watch?v=SDQnLydakV4)
-- [Unlocking all cards of garage in  vehicles and places hill climb racing game video](https://www.youtube.com/watch?v=x-eBPGcpsuc)
 <!-- YOUTUBE:END -->
 --- 
 
