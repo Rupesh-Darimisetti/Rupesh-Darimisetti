@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Solved 3 chess ♟️ puzzle 🧩 on 06-03-2026#chess #chessgame](https://www.youtube.com/shorts/TGLdj076yKc)
+- [ghosted by your own pieces Daily chess ♟️ puzzle 🧩 on 06-03-2026 #chess #chessgame](https://www.youtube.com/shorts/kEJ-VcMsqbI)
 - [solved 3 chess ♟️ puzzle 🧩 on 05-03-2026 #chess #chessgame](https://www.youtube.com/shorts/5YYNIDb8At0)
 - [huddle up Daily chess ♟️ puzzle 🧩 on 05-03-2026 #chess #chessgame](https://www.youtube.com/shorts/N_FblWX_7Z8)
 - [Solved 3 chess ♟️ puzzle 🧩 on 04-03-2026 #chess #chessgame](https://www.youtube.com/shorts/2QP0eRyH5_M)
-- [zig, zah, zap Daily chess ♟️ puzzle 🧩 on #04-03-2026 #chessgame #chess](https://www.youtube.com/shorts/T_p2OsecJVQ)
-- [Daily challenge junkyard runs with different vehicles. #hillclbracing2](https://www.youtube.com/watch?v=Q8xmrYck7X8)
 <!-- YOUTUBE:END -->
 --- 
 
