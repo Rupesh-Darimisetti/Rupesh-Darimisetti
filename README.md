@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Kanchana 3 dance](https://www.youtube.com/watch?v=N7FjZtd8aN4)
+- [Vijay light dance](https://www.youtube.com/watch?v=o4tKjqfk8Ro)
 - [Solved 3 chess ♟️ puzzle 🧩 on 08-03-2026 #chess #chessgame](https://www.youtube.com/shorts/DsI_cwgqiDE)
 - [The most beautiful second move ever Daily chess ♟️ puzzle 🧩 on 08-03-2026 #chess #chessgame](https://www.youtube.com/shorts/zh93O7bIgZI)
 - [solved 3 chess ♟️ puzzle 🧩 on 07-03-2026 #chess #chessgame](https://www.youtube.com/shorts/GLO19jSn8dI)
-- [Around the world  Daily chess ♟️ puzzle 🧩 on 07-03-2026 #chess  #chessgame](https://www.youtube.com/shorts/-HtgJqho9BE)
-- [Solved 3 chess ♟️ puzzle 🧩 on 06-03-2026#chess #chessgame](https://www.youtube.com/shorts/TGLdj076yKc)
 <!-- YOUTUBE:END -->
 --- 
 
