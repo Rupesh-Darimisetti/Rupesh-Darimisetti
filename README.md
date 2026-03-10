@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Daily chess ♟️ puzzle 🧩 on 09-03-2026 #chess #chessgame](https://www.youtube.com/watch?v=_YM3ZSLSb5U)
-- [Daily chess ♟️ puzzle 🧩 on 09-03-2026 #chess #chessgame](https://www.youtube.com/watch?v=mSStikzqiX4)
-- [Daily chess ♟️ puzzle 🧩 on 09-03-2026 #chess #chessgame](https://www.youtube.com/watch?v=F4odUkgdcC4)
+- [Dance](https://www.youtube.com/watch?v=tQJMMcbGKtw)
+- [Dance](https://www.youtube.com/watch?v=_YM3ZSLSb5U)
+- [Dance](https://www.youtube.com/watch?v=mSStikzqiX4)
+- [Dance on 09-03-2026](https://www.youtube.com/watch?v=F4odUkgdcC4)
 - [Festival celebration and lighting](https://www.youtube.com/watch?v=qaMf9G4R4KA)
-- [Daily chess ♟️ puzzle 🧩 on 09-03-2026 #chess #chessgame](https://www.youtube.com/shorts/Ay3TRgwDxf0)
 <!-- YOUTUBE:END -->
 --- 
 
