@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [NxtWave Responsive Coding Practice 16 on 2024/06/08 at 11:15:36 by @rupesh_darimisetti](https://www.youtube.com/watch?v=2U7LbYHAdH0)
 - [let&#39;s dance Daily chess ♟️ puzzle 🧩 on 11-03-2026 #chess #chessgame](https://www.youtube.com/shorts/p2BaliiuHSY)
 - [solved 3 chess ♟️ puzzle 🧩 on 11-03-2026 #chess #chessgame](https://www.youtube.com/shorts/SOt-YsX5vLs)
 - [Solved 3 chess ♟️ puzzle 🧩 on 10-03-2026 #chess #chessgame](https://www.youtube.com/shorts/sXttX25T3Gk)
 - [all clear Daily chess ♟️ puzzle 🧩 on 10-03-2026#chess #chessgame](https://www.youtube.com/shorts/vgTn1SYFdvI)
-- [Why did Kalika devi came shown in the form of Dance?](https://www.youtube.com/watch?v=tQJMMcbGKtw)
 <!-- YOUTUBE:END -->
 --- 
 
