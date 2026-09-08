@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 - [Codeforeces 228A:  Is your horseshoe on the other hoof? Solution in Java &lpar;Step-by-Step Explanation&rpar;](https://rupeshdarimisetti.blogspot.com/2026/02/codeforces-228a-is-your-horseshoe-on-the-other-hoof-java-solution.html.html)
 - [Codeforecess 200B - Drinks: Java Solution  and Explanation](https://rupeshdarimisetti.blogspot.com/2026/02/problem-200-b-b-drinks.html)
 - [Codeforces 677A – Vanya and Fence Solution in Java &lpar;Step-by-Step Explanation&rpar;](https://rupeshdarimisetti.blogspot.com/2026/02/codechef-problem-677a-vanya-and-fence.html)
-- [What is a Singleton Design Pattern?](https://rupeshdarimisetti.blogspot.com/2024/04/SingletonDesignPattern.html)
+- [Understanding the Singleton Design Pattern in Java: From fundamentals to production-Ready Code.](https://rupeshdarimisetti.blogspot.com/2024/04/SingletonDesignPattern.html)
 - [A. Translation 41A code chef solution in java](https://rupeshdarimisetti.blogspot.com/2026/02/a-translation-41a-code-chef-solution-in.html)
 <!-- BLOG-POST-LIST:END -->
 ---
