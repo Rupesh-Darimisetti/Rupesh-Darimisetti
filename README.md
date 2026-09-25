@@ -72,11 +72,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Upload Books to Google Play Books: A Complete Step-by-Step Guide](https://rupeshdarimisetti.blogspot.com/2026/09/how-to-upload-books-to-google-play-books.html)
 - [Basic Linux Commands for Beginners: 30+ Commands With Examples](https://rupeshdarimisetti.blogspot.com/2026/02/basic-linux-commands-for-beginners.html)
 - [Codeforces 228A: Is Your Horseshoe on the Other Hoof? – Java Solution](https://rupeshdarimisetti.blogspot.com/2026/02/codeforces-228a-is-your-horseshoe-on-the-other-hoof-java-solution.html)
 - [Codeforecess 200B - Drinks: Java Solution  and Explanation](https://rupeshdarimisetti.blogspot.com/2026/02/problem-200-b-b-drinks.html)
 - [Codeforces 677A – Vanya and Fence Solution in Java &lpar;Step-by-Step Explanation&rpar;](https://rupeshdarimisetti.blogspot.com/2026/02/codechef-problem-677a-vanya-and-fence.html)
-- [Understanding the Singleton Design Pattern in Java: From fundamentals to production-Ready Code.](https://rupeshdarimisetti.blogspot.com/2024/04/SingletonDesignPattern.html)
 <!-- BLOG-POST-LIST:END -->
 ---
 
